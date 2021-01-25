@@ -1,0 +1,233 @@
+2020-12-20 15:10:16,384 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 15:10:16,384 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 15:11:09,246 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 15:11:09,247 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 15:11:53,039 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 15:11:53,039 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 15:12:06,953 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 15:12:06,953 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 15:12:50,092 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 15:12:50,092 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 15:13:28,538 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 15:13:28,538 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 15:13:46,968 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 15:13:46,968 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 15:14:42,448 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 15:14:42,448 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 15:15:35,392 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 15:15:35,392 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 15:16:17,831 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 15:16:17,831 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 15:16:59,418 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 15:16:59,419 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 15:19:15,350 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 15:19:15,351 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 15:19:28,403 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 15:19:28,404 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 15:20:10,079 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 15:20:10,079 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 15:20:54,043 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 15:20:54,044 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 15:21:13,554 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 15:21:13,555 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 15:21:39,633 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 15:21:39,634 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 15:22:46,478 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 15:22:46,478 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 15:23:58,490 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 15:23:58,490 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 15:25:11,076 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 15:25:11,076 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 15:26:32,761 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 15:26:32,761 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 16:04:10,693 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 16:04:10,693 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 16:06:06,837 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 16:06:06,837 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 16:06:51,460 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 16:06:51,460 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 16:06:59,271 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 16:06:59,271 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 16:08:42,785 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 16:08:42,785 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 16:10:14,176 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 16:10:14,177 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 16:13:41,802 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 16:13:41,802 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 16:18:06,072 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 16:18:06,073 - INFO - server.py - Запущен сервер, порт для подключений: <descriptors.ServerPortCheck object at 0x01857250>, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 16:19:17,107 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 16:19:17,108 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 16:19:34,116 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 16:19:34,116 - INFO - server.py - Запущен сервер, порт для подключений: <descriptors.ServerPortCheck object at 0x024D7250>, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 19:38:57,090 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 19:38:57,126 - INFO - server.py - Запущен сервер, порт для подключений: <descriptors.ServerPortCheck object at 0x02177250>, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 19:43:10,654 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 19:45:05,654 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 19:45:05,655 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 19:45:53,398 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 19:48:48,101 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 19:48:48,101 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 19:49:00,494 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 19:49:00,494 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 19:49:21,948 - CRITICAL - server.py - Попытка запуска сервера с указанием неподходящего порта 10. Допустимы адреса с 1024 до 65535. 
+2020-12-20 20:16:51,383 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 20:16:51,383 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 20:17:28,217 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 20:17:28,217 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 20:18:30,457 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 20:19:26,019 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 20:19:38,151 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 20:19:38,151 - CRITICAL - decos.py - Попытка запуска сервера с указанием неподходящего порта 7777. Допустимы адреса с 1024 до 65535. 
+2020-12-20 20:20:10,318 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 20:20:10,318 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 20:20:18,305 - CRITICAL - server.py - Попытка запуска сервера с указанием неподходящего порта 2. Допустимы адреса с 1024 до 65535. 
+2020-12-20 20:21:05,677 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 20:21:05,687 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 20:21:05,732 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 56534) 
+2020-12-20 20:21:05,735 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 56535) 
+2020-12-20 20:21:05,736 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1608477665.7325666, 'user': {'account_name': 'test2'}} 
+2020-12-20 20:21:05,738 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<__main__.Server object at 0x015E9730>, {'action': 'presence', 'time': 1608477665.7325666, 'user': {'account_name': 'test2'}}, [], <socket.socket fd=564, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56534)>, [<socket.socket fd=564, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56534)>, <socket.socket fd=560, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56535)>], {'test2': <socket.socket fd=564, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56534)>}) {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main_loop 
+2020-12-20 20:21:05,740 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1608477665.73556, 'user': {'account_name': 'test3'}} 
+2020-12-20 20:21:05,741 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<__main__.Server object at 0x015E9730>, {'action': 'presence', 'time': 1608477665.73556, 'user': {'account_name': 'test3'}}, [], <socket.socket fd=560, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56535)>, [<socket.socket fd=564, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56534)>, <socket.socket fd=560, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56535)>], {'test2': <socket.socket fd=564, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56534)>, 'test3': <socket.socket fd=560, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56535)>}) {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main_loop 
+2020-12-20 20:21:05,757 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 56536) 
+2020-12-20 20:21:06,274 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1608477665.7575, 'user': {'account_name': 'test1'}} 
+2020-12-20 20:21:06,275 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<__main__.Server object at 0x015E9730>, {'action': 'presence', 'time': 1608477665.7575, 'user': {'account_name': 'test1'}}, [], <socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56536)>, [<socket.socket fd=564, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56534)>, <socket.socket fd=560, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56535)>, <socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56536)>], {'test2': <socket.socket fd=564, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56534)>, 'test3': <socket.socket fd=560, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56535)>, 'test1': <socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56536)>}) {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main_loop 
+2020-12-20 20:21:17,927 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test3', 'to': 'test2', 'time': 1608477677.6892629, 'message_text': 'sadfasdf'} 
+2020-12-20 20:21:17,928 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<__main__.Server object at 0x015E9730>, {'action': 'message', 'from': 'test3', 'to': 'test2', 'time': 1608477677.6892629, 'message_text': 'sadfasdf'}, [{'action': 'message', 'from': 'test3', 'to': 'test2', 'time': 1608477677.6892629, 'message_text': 'sadfasdf'}], <socket.socket fd=560, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56535)>, [<socket.socket fd=564, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56534)>, <socket.socket fd=560, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56535)>, <socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56536)>], {'test2': <socket.socket fd=564, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56534)>, 'test3': <socket.socket fd=560, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56535)>, 'test1': <socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56536)>}) {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main_loop 
+2020-12-20 20:21:17,929 - INFO - server.py - Отправлено сообщение пользователю test2 от пользователя test3. 
+2020-12-20 20:21:30,056 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1608477689.8178694, 'message_text': 'sdgas'} 
+2020-12-20 20:21:30,057 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<__main__.Server object at 0x015E9730>, {'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1608477689.8178694, 'message_text': 'sdgas'}, [{'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1608477689.8178694, 'message_text': 'sdgas'}], <socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56536)>, [<socket.socket fd=564, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56534)>, <socket.socket fd=560, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56535)>, <socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56536)>], {'test2': <socket.socket fd=564, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56534)>, 'test3': <socket.socket fd=560, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56535)>, 'test1': <socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56536)>}) {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main_loop 
+2020-12-20 20:21:30,058 - INFO - server.py - Отправлено сообщение пользователю test3 от пользователя test1. 
+2020-12-20 20:21:59,775 - CRITICAL - server.py - Попытка запуска сервера с указанием неподходящего порта 2. Допустимы адреса с 1024 до 65535. 
+2020-12-20 20:22:09,558 - CRITICAL - server.py - Попытка запуска сервера с указанием неподходящего порта 2. Допустимы адреса с 1024 до 65535. 
+2020-12-20 20:22:15,403 - CRITICAL - server.py - Попытка запуска сервера с указанием неподходящего порта 2. Допустимы адреса с 1024 до 65535. 
+2020-12-20 20:22:20,228 - CRITICAL - server.py - Попытка запуска сервера с указанием неподходящего порта 2. Допустимы адреса с 1024 до 65535. 
+2020-12-20 20:23:07,583 - CRITICAL - server.py - Попытка запуска сервера с указанием неподходящего порта 2. Допустимы адреса с 1024 до 65535. 
+2020-12-20 20:23:13,719 - CRITICAL - server.py - Попытка запуска сервера с указанием неподходящего порта 888. Допустимы адреса с 1024 до 65535. 
+2020-12-20 20:23:15,330 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 20:23:15,331 - INFO - server.py - Запущен сервер, порт для подключений: 8888, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 20:23:29,956 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+() {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2020-12-20 20:23:29,959 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2020-12-20 20:23:29,978 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 56566) 
+2020-12-20 20:23:29,988 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 56567) 
+2020-12-20 20:23:29,988 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1608477809.9779727, 'user': {'account_name': 'test3'}} 
+2020-12-20 20:23:29,989 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<__main__.Server object at 0x01979730>, {'action': 'presence', 'time': 1608477809.9779727, 'user': {'account_name': 'test3'}}, [], <socket.socket fd=600, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56566)>, [<socket.socket fd=600, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56566)>, <socket.socket fd=604, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56567)>], {'test3': <socket.socket fd=600, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56566)>}) {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main_loop 
+2020-12-20 20:23:30,002 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 56568) 
+2020-12-20 20:23:30,002 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1608477809.9879458, 'user': {'account_name': 'test1'}} 
+2020-12-20 20:23:30,003 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<__main__.Server object at 0x01979730>, {'action': 'presence', 'time': 1608477809.9879458, 'user': {'account_name': 'test1'}}, [], <socket.socket fd=604, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56567)>, [<socket.socket fd=600, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56566)>, <socket.socket fd=604, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56567)>, <socket.socket fd=456, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56568)>], {'test3': <socket.socket fd=600, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56566)>, 'test1': <socket.socket fd=604, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56567)>}) {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main_loop 
+2020-12-20 20:23:30,510 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1608477810.0027456, 'user': {'account_name': 'test2'}} 
+2020-12-20 20:23:30,512 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<__main__.Server object at 0x01979730>, {'action': 'presence', 'time': 1608477810.0027456, 'user': {'account_name': 'test2'}}, [], <socket.socket fd=456, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56568)>, [<socket.socket fd=600, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56566)>, <socket.socket fd=604, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56567)>, <socket.socket fd=456, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56568)>], {'test3': <socket.socket fd=600, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56566)>, 'test1': <socket.socket fd=604, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56567)>, 'test2': <socket.socket fd=456, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56568)>}) {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main_loop 
+2020-12-20 20:23:43,168 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test3', 'to': 'test2', 'time': 1608477822.7252498, 'message_text': 'gfdesgsdfg'} 
+2020-12-20 20:23:43,169 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<__main__.Server object at 0x01979730>, {'action': 'message', 'from': 'test3', 'to': 'test2', 'time': 1608477822.7252498, 'message_text': 'gfdesgsdfg'}, [{'action': 'message', 'from': 'test3', 'to': 'test2', 'time': 1608477822.7252498, 'message_text': 'gfdesgsdfg'}], <socket.socket fd=600, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56566)>, [<socket.socket fd=600, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56566)>, <socket.socket fd=604, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56567)>, <socket.socket fd=456, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56568)>], {'test3': <socket.socket fd=600, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56566)>, 'test1': <socket.socket fd=604, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56567)>, 'test2': <socket.socket fd=456, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 56568)>}) {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main_loop 
+2020-12-20 20:23:43,170 - INFO - server.py - Отправлено сообщение пользователю test2 от пользователя test3. 

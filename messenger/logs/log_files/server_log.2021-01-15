@@ -1,0 +1,727 @@
+2021-01-15 00:34:22,791 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 00:34:22,958 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 00:34:30,160 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 53796) 
+2021-01-15 00:34:30,161 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 53797) 
+2021-01-15 00:34:30,162 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610652870.1603572, 'user': {'account_name': 'test3'}} 
+2021-01-15 00:34:30,293 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 1144)>, {'action': 'presence', 'time': 1610652870.1603572, 'user': {'account_name': 'test3'}}, [], <socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53796)>, [<socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53796)>, <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53797)>], {'test3': <socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53796)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 00:34:30,294 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 53798) 
+2021-01-15 00:34:30,294 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610652870.1613538, 'user': {'account_name': 'test2'}} 
+2021-01-15 00:34:30,419 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 1144)>, {'action': 'presence', 'time': 1610652870.1613538, 'user': {'account_name': 'test2'}}, [], <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53797)>, [<socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53796)>, <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53797)>, <socket.socket fd=1224, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53798)>], {'test3': <socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53796)>, 'test2': <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53797)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 00:34:30,419 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610652870.1643455, 'user': {'account_name': 'test1'}} 
+2021-01-15 00:34:30,571 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 1144)>, {'action': 'presence', 'time': 1610652870.1643455, 'user': {'account_name': 'test1'}}, [], <socket.socket fd=1224, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53798)>, [<socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53796)>, <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53797)>, <socket.socket fd=1224, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53798)>], {'test3': <socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53796)>, 'test2': <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53797)>, 'test1': <socket.socket fd=1224, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53798)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 00:34:33,613 - INFO - server.py - Клиент ('127.0.0.1', 53796) отключился от сервера. 
+2021-01-15 00:34:33,613 - INFO - server.py - Клиент ('127.0.0.1', 53797) отключился от сервера. 
+2021-01-15 00:34:33,613 - INFO - server.py - Клиент ('127.0.0.1', 53798) отключился от сервера. 
+2021-01-15 00:43:32,466 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 00:43:32,574 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 00:43:49,805 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 00:43:49,914 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 00:44:07,592 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 53821) 
+2021-01-15 00:44:07,627 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 53822) 
+2021-01-15 00:44:07,627 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610653447.592986, 'user': {'account_name': 'test3'}} 
+2021-01-15 00:44:07,748 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 13044)>, {'action': 'presence', 'time': 1610653447.592986, 'user': {'account_name': 'test3'}}, [], <socket.socket fd=1276, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53821)>, [<socket.socket fd=1276, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53821)>, <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53822)>], {'test3': <socket.socket fd=1276, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53821)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 00:44:07,748 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 53823) 
+2021-01-15 00:44:07,749 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610653447.6278927, 'user': {'account_name': 'test1'}} 
+2021-01-15 00:44:07,872 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 13044)>, {'action': 'presence', 'time': 1610653447.6278927, 'user': {'account_name': 'test1'}}, [], <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53822)>, [<socket.socket fd=1276, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53821)>, <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53822)>, <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53823)>], {'test3': <socket.socket fd=1276, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53821)>, 'test1': <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53822)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 00:44:07,873 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610653447.6278927, 'user': {'account_name': 'test2'}} 
+2021-01-15 00:44:07,978 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 13044)>, {'action': 'presence', 'time': 1610653447.6278927, 'user': {'account_name': 'test2'}}, [], <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53823)>, [<socket.socket fd=1276, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53821)>, <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53822)>, <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53823)>], {'test3': <socket.socket fd=1276, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53821)>, 'test1': <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53822)>, 'test2': <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 53823)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 00:44:11,539 - INFO - server.py - Клиент ('127.0.0.1', 53821) отключился от сервера. 
+2021-01-15 00:44:11,539 - INFO - server.py - Клиент ('127.0.0.1', 53822) отключился от сервера. 
+2021-01-15 00:44:11,539 - INFO - server.py - Клиент ('127.0.0.1', 53823) отключился от сервера. 
+2021-01-15 13:24:53,404 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 13:24:53,552 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 13:24:59,594 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50133) 
+2021-01-15 13:24:59,594 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610699099.5941453, 'user': {'account_name': 'test'}} 
+2021-01-15 13:24:59,781 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 8732)>, {'action': 'presence', 'time': 1610699099.5941453, 'user': {'account_name': 'test'}}, [], <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50133)>, [<socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50133)>], {'test': <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50133)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:25:00,296 - INFO - server.py - Клиент ('127.0.0.1', 50133) отключился от сервера. 
+2021-01-15 13:26:17,718 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50136) 
+2021-01-15 13:26:17,718 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610699177.7180922, 'user': {'account_name': 'test'}} 
+2021-01-15 13:26:17,720 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 8732)>, {'action': 'presence', 'time': 1610699177.7180922, 'user': {'account_name': 'test'}}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, [], {'test': <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50133)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:26:25,096 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50138) 
+2021-01-15 13:26:25,096 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610699185.0969462, 'user': {'account_name': 'test2'}} 
+2021-01-15 13:26:25,165 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 8732)>, {'action': 'presence', 'time': 1610699185.0969462, 'user': {'account_name': 'test2'}}, [], <socket.socket fd=1304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50138)>, [<socket.socket fd=1304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50138)>], {'test': <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50133)>, 'test2': <socket.socket fd=1304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50138)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:26:25,674 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610699185.165212, 'account_name': 'test2'} 
+2021-01-15 13:26:25,676 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 8732)>, {'action': 'get_users', 'time': 1610699185.165212, 'account_name': 'test2'}, [], <socket.socket fd=1304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50138)>, [<socket.socket fd=1304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50138)>], {'test': <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50133)>, 'test2': <socket.socket fd=1304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50138)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:26:26,176 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610699185.7416642, 'user': 'test2'} 
+2021-01-15 13:26:26,187 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 8732)>, {'action': 'get_contacts', 'time': 1610699185.7416642, 'user': 'test2'}, [], <socket.socket fd=1304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50138)>, [<socket.socket fd=1304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50138)>], {'test': <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50133)>, 'test2': <socket.socket fd=1304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50138)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:26:34,275 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610699194.0731323, 'account_name': 'test2'} 
+2021-01-15 13:26:34,367 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 8732)>, {'action': 'exit', 'time': 1610699194.0731323, 'account_name': 'test2'}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, [], {'test': <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50133)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:27:18,905 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 13:27:19,020 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 13:27:26,889 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50141) 
+2021-01-15 13:27:26,890 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610699246.8892982, 'user': {'account_name': 'test2'}} 
+2021-01-15 13:27:27,007 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10524)>, {'action': 'presence', 'time': 1610699246.8892982, 'user': {'account_name': 'test2'}}, [], <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50141)>, [<socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50141)>], {'test2': <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50141)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:27:27,517 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610699247.0068955, 'account_name': 'test2'} 
+2021-01-15 13:27:27,519 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10524)>, {'action': 'get_users', 'time': 1610699247.0068955, 'account_name': 'test2'}, [], <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50141)>, [<socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50141)>], {'test2': <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50141)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:27:28,020 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610699247.6086874, 'user': 'test2'} 
+2021-01-15 13:27:28,023 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10524)>, {'action': 'get_contacts', 'time': 1610699247.6086874, 'user': 'test2'}, [], <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50141)>, [<socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50141)>], {'test2': <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50141)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:27:42,157 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610699262.0436933, 'account_name': 'test2'} 
+2021-01-15 13:27:42,228 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10524)>, {'action': 'exit', 'time': 1610699262.0436933, 'account_name': 'test2'}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, [], {}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:29:18,231 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 13:29:18,317 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 13:29:26,211 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50160) 
+2021-01-15 13:29:26,211 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610699366.2118158, 'user': {'account_name': 'test31'}} 
+2021-01-15 13:29:26,363 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 1680)>, {'action': 'presence', 'time': 1610699366.2118158, 'user': {'account_name': 'test31'}}, [], <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50160)>, [<socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50160)>], {'test31': <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50160)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:29:26,866 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610699366.3620858, 'account_name': 'test31'} 
+2021-01-15 13:29:26,874 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 1680)>, {'action': 'get_users', 'time': 1610699366.3620858, 'account_name': 'test31'}, [], <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50160)>, [<socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50160)>], {'test31': <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50160)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:29:27,382 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610699367.0942242, 'user': 'test31'} 
+2021-01-15 13:29:27,385 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 1680)>, {'action': 'get_contacts', 'time': 1610699367.0942242, 'user': 'test31'}, [], <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50160)>, [<socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50160)>], {'test31': <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50160)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:29:40,022 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610699379.8092844, 'account_name': 'test31'} 
+2021-01-15 13:29:40,023 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 1680)>, {'action': 'get_users', 'time': 1610699379.8092844, 'account_name': 'test31'}, [], <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50160)>, [<socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50160)>], {'test31': <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50160)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:29:43,060 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'add', 'time': 1610699382.7302322, 'user': 'test31', 'account_name': 'test1'} 
+2021-01-15 13:29:43,129 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 1680)>, {'action': 'add', 'time': 1610699382.7302322, 'user': 'test31', 'account_name': 'test1'}, [], <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50160)>, [<socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50160)>], {'test31': <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50160)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:29:55,283 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610699394.8431058, 'account_name': 'test31'} 
+2021-01-15 13:29:55,341 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 1680)>, {'action': 'exit', 'time': 1610699394.8431058, 'account_name': 'test31'}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, [], {}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:30:09,775 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 13:30:09,887 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 13:31:41,946 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50172) 
+2021-01-15 13:31:41,947 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610699501.9461272, 'user': {'account_name': 'test31'}} 
+2021-01-15 13:31:42,027 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 6932)>, {'action': 'presence', 'time': 1610699501.9461272, 'user': {'account_name': 'test31'}}, [], <socket.socket fd=1300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50172)>, [<socket.socket fd=1300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50172)>], {'test31': <socket.socket fd=1300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50172)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:31:42,537 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610699502.0251029, 'account_name': 'test31'} 
+2021-01-15 13:31:42,539 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 6932)>, {'action': 'get_users', 'time': 1610699502.0251029, 'account_name': 'test31'}, [], <socket.socket fd=1300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50172)>, [<socket.socket fd=1300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50172)>], {'test31': <socket.socket fd=1300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50172)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:31:43,054 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610699502.6283534, 'user': 'test31'} 
+2021-01-15 13:31:43,057 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 6932)>, {'action': 'get_contacts', 'time': 1610699502.6283534, 'user': 'test31'}, [], <socket.socket fd=1300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50172)>, [<socket.socket fd=1300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50172)>], {'test31': <socket.socket fd=1300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50172)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:32:47,764 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610699567.6842546, 'account_name': 'test31'} 
+2021-01-15 13:32:47,836 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 6932)>, {'action': 'exit', 'time': 1610699567.6842546, 'account_name': 'test31'}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, [], {}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:32:57,157 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 13:32:57,256 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 13:33:05,153 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50176) 
+2021-01-15 13:33:05,154 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610699585.1530643, 'user': {'account_name': 'test31'}} 
+2021-01-15 13:33:05,237 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 4820)>, {'action': 'presence', 'time': 1610699585.1530643, 'user': {'account_name': 'test31'}}, [], <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>, [<socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>], {'test31': <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:33:05,751 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610699585.236187, 'account_name': 'test31'} 
+2021-01-15 13:33:05,753 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 4820)>, {'action': 'get_users', 'time': 1610699585.236187, 'account_name': 'test31'}, [], <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>, [<socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>], {'test31': <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:33:06,256 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610699585.8223162, 'user': 'test31'} 
+2021-01-15 13:33:06,259 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 4820)>, {'action': 'get_contacts', 'time': 1610699585.8223162, 'user': 'test31'}, [], <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>, [<socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>], {'test31': <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:33:18,214 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50177) 
+2021-01-15 13:33:18,214 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610699598.214807, 'user': {'account_name': 'test1'}} 
+2021-01-15 13:33:18,292 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 4820)>, {'action': 'presence', 'time': 1610699598.214807, 'user': {'account_name': 'test1'}}, [], <socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50177)>, [<socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>, <socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50177)>], {'test31': <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>, 'test1': <socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50177)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:33:18,793 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610699598.291403, 'account_name': 'test1'} 
+2021-01-15 13:33:18,795 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 4820)>, {'action': 'get_users', 'time': 1610699598.291403, 'account_name': 'test1'}, [], <socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50177)>, [<socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>, <socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50177)>], {'test31': <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>, 'test1': <socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50177)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:33:19,300 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610699598.9534955, 'user': 'test1'} 
+2021-01-15 13:33:19,303 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 4820)>, {'action': 'get_contacts', 'time': 1610699598.9534955, 'user': 'test1'}, [], <socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50177)>, [<socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>, <socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50177)>], {'test31': <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>, 'test1': <socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50177)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:33:25,860 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'add', 'time': 1610699605.7162907, 'user': 'test1', 'account_name': 'test31'} 
+2021-01-15 13:33:25,944 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 4820)>, {'action': 'add', 'time': 1610699605.7162907, 'user': 'test1', 'account_name': 'test31'}, [], <socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50177)>, [<socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>, <socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50177)>], {'test31': <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>, 'test1': <socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50177)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:33:42,611 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610699622.016587, 'message_text': 'Q\n'} 
+2021-01-15 13:33:42,693 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 4820)>, {'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610699622.016587, 'message_text': 'Q\n'}, [{'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610699622.016587, 'message_text': 'Q\n'}], <socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50177)>, [<socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>, <socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50177)>], {'test31': <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>, 'test1': <socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50177)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:33:42,694 - INFO - server.py - Отправлено сообщение пользователю test31 от пользователя test1. 
+2021-01-15 13:33:56,343 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test31', 'to': 'test1', 'time': 1610699635.808336, 'message_text': 'da da Q'} 
+2021-01-15 13:33:56,414 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 4820)>, {'action': 'message', 'from': 'test31', 'to': 'test1', 'time': 1610699635.808336, 'message_text': 'da da Q'}, [{'action': 'message', 'from': 'test31', 'to': 'test1', 'time': 1610699635.808336, 'message_text': 'da da Q'}], <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>, [<socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>, <socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50177)>], {'test31': <socket.socket fd=1288, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50176)>, 'test1': <socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50177)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:33:56,415 - INFO - server.py - Отправлено сообщение пользователю test1 от пользователя test31. 
+2021-01-15 13:34:05,517 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610699645.1242244, 'account_name': 'test31'} 
+2021-01-15 13:34:05,602 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 4820)>, {'action': 'exit', 'time': 1610699645.1242244, 'account_name': 'test31'}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, [<socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50177)>], {'test1': <socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50177)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:34:28,891 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 13:34:28,987 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 13:34:39,606 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50180) 
+2021-01-15 13:34:39,606 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610699679.6052938, 'user': {'account_name': 'test31'}} 
+2021-01-15 13:34:39,699 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10576)>, {'action': 'presence', 'time': 1610699679.6052938, 'user': {'account_name': 'test31'}}, [], <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50180)>, [<socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50180)>], {'test31': <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50180)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:34:40,204 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610699679.6980455, 'account_name': 'test31'} 
+2021-01-15 13:34:40,213 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10576)>, {'action': 'get_users', 'time': 1610699679.6980455, 'account_name': 'test31'}, [], <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50180)>, [<socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50180)>], {'test31': <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50180)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:34:40,719 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610699680.28511, 'user': 'test31'} 
+2021-01-15 13:34:40,722 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10576)>, {'action': 'get_contacts', 'time': 1610699680.28511, 'user': 'test31'}, [], <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50180)>, [<socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50180)>], {'test31': <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50180)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:34:47,299 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test31', 'to': 'test1', 'time': 1610699687.2299466, 'message_text': 'da'} 
+2021-01-15 13:34:47,363 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10576)>, {'action': 'message', 'from': 'test31', 'to': 'test1', 'time': 1610699687.2299466, 'message_text': 'da'}, [{'action': 'message', 'from': 'test31', 'to': 'test1', 'time': 1610699687.2299466, 'message_text': 'da'}], <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50180)>, [<socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50180)>], {'test31': <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50180)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:34:47,364 - ERROR - server.py - Пользователь test1 не зарегистрирован на сервере, отправка сообщения невозможна. 
+2021-01-15 13:34:57,458 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610699696.9773686, 'account_name': 'test31'} 
+2021-01-15 13:34:57,525 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10576)>, {'action': 'exit', 'time': 1610699696.9773686, 'account_name': 'test31'}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, [], {}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:35:03,532 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50182) 
+2021-01-15 13:35:03,532 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610699703.5327194, 'user': {'account_name': 'test31'}} 
+2021-01-15 13:35:03,625 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10576)>, {'action': 'presence', 'time': 1610699703.5327194, 'user': {'account_name': 'test31'}}, [], <socket.socket fd=932, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50182)>, [<socket.socket fd=932, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50182)>], {'test31': <socket.socket fd=932, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50182)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:35:04,129 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610699703.6244674, 'account_name': 'test31'} 
+2021-01-15 13:35:04,151 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10576)>, {'action': 'get_users', 'time': 1610699703.6244674, 'account_name': 'test31'}, [], <socket.socket fd=932, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50182)>, [<socket.socket fd=932, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50182)>], {'test31': <socket.socket fd=932, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50182)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:35:04,662 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610699704.2097356, 'user': 'test31'} 
+2021-01-15 13:35:04,667 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10576)>, {'action': 'get_contacts', 'time': 1610699704.2097356, 'user': 'test31'}, [], <socket.socket fd=932, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50182)>, [<socket.socket fd=932, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50182)>], {'test31': <socket.socket fd=932, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50182)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:35:12,760 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610699712.2052512, 'account_name': 'test31'} 
+2021-01-15 13:35:12,828 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10576)>, {'action': 'exit', 'time': 1610699712.2052512, 'account_name': 'test31'}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, [], {}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:37:07,936 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 13:37:08,045 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 13:37:15,736 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50185) 
+2021-01-15 13:37:15,737 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610699835.7362597, 'user': {'account_name': 'test1'}} 
+2021-01-15 13:37:15,821 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 6980)>, {'action': 'presence', 'time': 1610699835.7362597, 'user': {'account_name': 'test1'}}, [], <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50185)>, [<socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50185)>], {'test1': <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50185)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:37:16,330 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610699835.820207, 'account_name': 'test1'} 
+2021-01-15 13:37:16,338 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 6980)>, {'action': 'get_users', 'time': 1610699835.820207, 'account_name': 'test1'}, [], <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50185)>, [<socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50185)>], {'test1': <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50185)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:37:16,853 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610699836.4077513, 'user': 'test1'} 
+2021-01-15 13:37:16,856 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 6980)>, {'action': 'get_contacts', 'time': 1610699836.4077513, 'user': 'test1'}, [], <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50185)>, [<socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50185)>], {'test1': <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50185)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:37:24,421 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1610699843.9432712, 'message_text': 'da\n'} 
+2021-01-15 13:37:24,541 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 6980)>, {'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1610699843.9432712, 'message_text': 'da\n'}, [{'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1610699843.9432712, 'message_text': 'da\n'}], <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50185)>, [<socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50185)>], {'test1': <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50185)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:37:24,541 - ERROR - server.py - Пользователь test3 не зарегистрирован на сервере, отправка сообщения невозможна. 
+2021-01-15 13:37:46,705 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610699866.4761841, 'account_name': 'test1'} 
+2021-01-15 13:37:46,765 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 6980)>, {'action': 'exit', 'time': 1610699866.4761841, 'account_name': 'test1'}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, [], {}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:42:07,036 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 13:42:07,158 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 13:42:13,992 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50192) 
+2021-01-15 13:42:13,992 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610700133.9912906, 'user': {'account_name': 'test1'}} 
+2021-01-15 13:42:14,078 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10292)>, {'action': 'presence', 'time': 1610700133.9912906, 'user': {'account_name': 'test1'}}, [], <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50192)>, [<socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50192)>], {'test1': <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50192)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:42:14,582 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610700134.076569, 'account_name': 'test1'} 
+2021-01-15 13:42:14,589 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10292)>, {'action': 'get_users', 'time': 1610700134.076569, 'account_name': 'test1'}, [], <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50192)>, [<socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50192)>], {'test1': <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50192)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:42:15,096 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610700134.720704, 'user': 'test1'} 
+2021-01-15 13:42:15,099 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10292)>, {'action': 'get_contacts', 'time': 1610700134.720704, 'user': 'test1'}, [], <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50192)>, [<socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50192)>], {'test1': <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50192)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:42:24,697 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1610700144.0690992, 'message_text': 'da'} 
+2021-01-15 13:42:24,816 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10292)>, {'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1610700144.0690992, 'message_text': 'da'}, [{'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1610700144.0690992, 'message_text': 'da'}], <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50192)>, [<socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50192)>], {'test1': <socket.socket fd=1280, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50192)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:42:24,817 - ERROR - server.py - Пользователь test3 не зарегистрирован на сервере, отправка сообщения невозможна. 
+2021-01-15 13:42:40,980 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610700160.891855, 'account_name': 'test1'} 
+2021-01-15 13:42:41,045 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10292)>, {'action': 'exit', 'time': 1610700160.891855, 'account_name': 'test1'}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, [], {}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:42:45,412 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 13:42:45,516 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 13:42:52,190 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50194) 
+2021-01-15 13:42:52,190 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610700172.190301, 'user': {'account_name': 'test1'}} 
+2021-01-15 13:42:52,286 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 11936)>, {'action': 'presence', 'time': 1610700172.190301, 'user': {'account_name': 'test1'}}, [], <socket.socket fd=1200, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50194)>, [<socket.socket fd=1200, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50194)>], {'test1': <socket.socket fd=1200, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50194)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:42:52,798 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610700172.2841125, 'account_name': 'test1'} 
+2021-01-15 13:42:52,811 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 11936)>, {'action': 'get_users', 'time': 1610700172.2841125, 'account_name': 'test1'}, [], <socket.socket fd=1200, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50194)>, [<socket.socket fd=1200, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50194)>], {'test1': <socket.socket fd=1200, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50194)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:42:53,317 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610700172.9893138, 'user': 'test1'} 
+2021-01-15 13:42:53,321 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 11936)>, {'action': 'get_contacts', 'time': 1610700172.9893138, 'user': 'test1'}, [], <socket.socket fd=1200, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50194)>, [<socket.socket fd=1200, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50194)>], {'test1': <socket.socket fd=1200, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50194)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:42:58,368 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1610700177.7552505, 'message_text': 'da'} 
+2021-01-15 13:42:58,471 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 11936)>, {'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1610700177.7552505, 'message_text': 'da'}, [{'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1610700177.7552505, 'message_text': 'da'}], <socket.socket fd=1200, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50194)>, [<socket.socket fd=1200, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50194)>], {'test1': <socket.socket fd=1200, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50194)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:42:58,471 - ERROR - server.py - Пользователь test3 не зарегистрирован на сервере, отправка сообщения невозможна. 
+2021-01-15 13:43:25,234 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610700205.045266, 'account_name': 'test1'} 
+2021-01-15 13:43:25,296 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 11936)>, {'action': 'exit', 'time': 1610700205.045266, 'account_name': 'test1'}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, [], {}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:43:27,799 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 13:43:27,898 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 13:43:31,298 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50196) 
+2021-01-15 13:43:31,298 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610700211.2987776, 'user': {'account_name': 'test1'}} 
+2021-01-15 13:43:31,366 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 2800)>, {'action': 'presence', 'time': 1610700211.2987776, 'user': {'account_name': 'test1'}}, [], <socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50196)>, [<socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50196)>], {'test1': <socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50196)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:43:31,882 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610700211.3651357, 'account_name': 'test1'} 
+2021-01-15 13:43:31,896 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 2800)>, {'action': 'get_users', 'time': 1610700211.3651357, 'account_name': 'test1'}, [], <socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50196)>, [<socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50196)>], {'test1': <socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50196)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:43:32,406 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610700211.958279, 'user': 'test1'} 
+2021-01-15 13:43:32,409 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 2800)>, {'action': 'get_contacts', 'time': 1610700211.958279, 'user': 'test1'}, [], <socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50196)>, [<socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50196)>], {'test1': <socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50196)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:43:35,959 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1610700215.3522816, 'message_text': 'da'} 
+2021-01-15 13:43:36,028 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 2800)>, {'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1610700215.3522816, 'message_text': 'da'}, [{'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1610700215.3522816, 'message_text': 'da'}], <socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50196)>, [<socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50196)>], {'test1': <socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50196)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:43:36,028 - ERROR - server.py - Пользователь test3 не зарегистрирован на сервере, отправка сообщения невозможна. 
+2021-01-15 13:43:44,614 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610700223.9451609, 'account_name': 'test1'} 
+2021-01-15 13:43:44,692 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 2800)>, {'action': 'exit', 'time': 1610700223.9451609, 'account_name': 'test1'}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, [], {}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:55:13,311 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 13:55:13,395 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 13:56:57,561 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50251) 
+2021-01-15 13:56:57,561 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610701017.561038, 'user': {'account_name': 'test1'}} 
+2021-01-15 13:56:57,681 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 1356)>, {'action': 'presence', 'time': 1610701017.561038, 'user': {'account_name': 'test1'}}, [], <socket.socket fd=988, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50251)>, [<socket.socket fd=988, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50251)>], {'test1': <socket.socket fd=988, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50251)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:56:58,182 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610701017.6794047, 'account_name': 'test1'} 
+2021-01-15 13:56:58,184 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 1356)>, {'action': 'get_users', 'time': 1610701017.6794047, 'account_name': 'test1'}, [], <socket.socket fd=988, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50251)>, [<socket.socket fd=988, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50251)>], {'test1': <socket.socket fd=988, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50251)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:56:58,700 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610701018.3755705, 'user': 'test1'} 
+2021-01-15 13:56:58,703 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 1356)>, {'action': 'get_contacts', 'time': 1610701018.3755705, 'user': 'test1'}, [], <socket.socket fd=988, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50251)>, [<socket.socket fd=988, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50251)>], {'test1': <socket.socket fd=988, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50251)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:57:02,745 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701022.5968916, 'message_text': 'da'} 
+2021-01-15 13:57:02,816 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 1356)>, {'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701022.5968916, 'message_text': 'da'}, [{'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701022.5968916, 'message_text': 'da'}], <socket.socket fd=988, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50251)>, [<socket.socket fd=988, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50251)>], {'test1': <socket.socket fd=988, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50251)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:57:02,816 - ERROR - server.py - Пользователь test31 не зарегистрирован на сервере, отправка сообщения невозможна. 
+2021-01-15 13:57:10,389 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610701030.0699453, 'account_name': 'test1'} 
+2021-01-15 13:57:10,468 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 1356)>, {'action': 'exit', 'time': 1610701030.0699453, 'account_name': 'test1'}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, [], {}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:58:18,899 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 13:58:18,997 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 13:58:21,845 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50265) 
+2021-01-15 13:58:21,845 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610701101.8451812, 'user': {'account_name': 'test1'}} 
+2021-01-15 13:58:21,941 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 3012)>, {'action': 'presence', 'time': 1610701101.8451812, 'user': {'account_name': 'test1'}}, [], <socket.socket fd=1196, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50265)>, [<socket.socket fd=1196, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50265)>], {'test1': <socket.socket fd=1196, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50265)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:58:22,449 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610701101.9398806, 'account_name': 'test1'} 
+2021-01-15 13:58:22,453 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 3012)>, {'action': 'get_users', 'time': 1610701101.9398806, 'account_name': 'test1'}, [], <socket.socket fd=1196, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50265)>, [<socket.socket fd=1196, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50265)>], {'test1': <socket.socket fd=1196, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50265)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:58:22,955 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610701102.5346332, 'user': 'test1'} 
+2021-01-15 13:58:22,958 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 3012)>, {'action': 'get_contacts', 'time': 1610701102.5346332, 'user': 'test1'}, [], <socket.socket fd=1196, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50265)>, [<socket.socket fd=1196, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50265)>], {'test1': <socket.socket fd=1196, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50265)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:58:26,999 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701106.574215, 'message_text': 'da'} 
+2021-01-15 13:58:27,107 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 3012)>, {'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701106.574215, 'message_text': 'da'}, [{'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701106.574215, 'message_text': 'da'}], <socket.socket fd=1196, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50265)>, [<socket.socket fd=1196, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50265)>], {'test1': <socket.socket fd=1196, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50265)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:58:27,107 - ERROR - server.py - Пользователь test31 не зарегистрирован на сервере, отправка сообщения невозможна. 
+2021-01-15 13:58:33,685 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610701113.2539897, 'account_name': 'test1'} 
+2021-01-15 13:58:33,752 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 3012)>, {'action': 'exit', 'time': 1610701113.2539897, 'account_name': 'test1'}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, [], {}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:58:39,908 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 13:58:40,005 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 13:58:44,537 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50267) 
+2021-01-15 13:58:44,538 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610701124.537242, 'user': {'account_name': 'test1'}} 
+2021-01-15 13:58:44,649 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 8396)>, {'action': 'presence', 'time': 1610701124.537242, 'user': {'account_name': 'test1'}}, [], <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50267)>, [<socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50267)>], {'test1': <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50267)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:58:45,162 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610701124.647939, 'account_name': 'test1'} 
+2021-01-15 13:58:45,171 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 8396)>, {'action': 'get_users', 'time': 1610701124.647939, 'account_name': 'test1'}, [], <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50267)>, [<socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50267)>], {'test1': <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50267)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:58:45,674 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610701125.231169, 'user': 'test1'} 
+2021-01-15 13:58:45,680 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 8396)>, {'action': 'get_contacts', 'time': 1610701125.231169, 'user': 'test1'}, [], <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50267)>, [<socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50267)>], {'test1': <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50267)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:58:48,707 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701128.2472994, 'message_text': 'da'} 
+2021-01-15 13:58:48,792 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 8396)>, {'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701128.2472994, 'message_text': 'da'}, [{'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701128.2472994, 'message_text': 'da'}], <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50267)>, [<socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50267)>], {'test1': <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50267)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:58:48,792 - ERROR - server.py - Пользователь test31 не зарегистрирован на сервере, отправка сообщения невозможна. 
+2021-01-15 13:58:55,900 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610701135.7351167, 'account_name': 'test1'} 
+2021-01-15 13:58:55,961 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 8396)>, {'action': 'exit', 'time': 1610701135.7351167, 'account_name': 'test1'}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, [], {}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:59:26,535 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 13:59:26,652 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 13:59:30,056 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50269) 
+2021-01-15 13:59:30,056 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610701170.0556145, 'user': {'account_name': 'test1'}} 
+2021-01-15 13:59:30,144 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 8084)>, {'action': 'presence', 'time': 1610701170.0556145, 'user': {'account_name': 'test1'}}, [], <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50269)>, [<socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50269)>], {'test1': <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50269)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:59:30,653 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610701170.1411862, 'account_name': 'test1'} 
+2021-01-15 13:59:30,672 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 8084)>, {'action': 'get_users', 'time': 1610701170.1411862, 'account_name': 'test1'}, [], <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50269)>, [<socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50269)>], {'test1': <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50269)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:59:31,174 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610701170.767194, 'user': 'test1'} 
+2021-01-15 13:59:31,177 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 8084)>, {'action': 'get_contacts', 'time': 1610701170.767194, 'user': 'test1'}, [], <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50269)>, [<socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50269)>], {'test1': <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50269)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:59:34,225 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701173.7453153, 'message_text': 'da'} 
+2021-01-15 13:59:34,325 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 8084)>, {'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701173.7453153, 'message_text': 'da'}, [{'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701173.7453153, 'message_text': 'da'}], <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50269)>, [<socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50269)>], {'test1': <socket.socket fd=1192, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50269)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:59:34,325 - ERROR - server.py - Пользователь test31 не зарегистрирован на сервере, отправка сообщения невозможна. 
+2021-01-15 13:59:40,380 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610701180.0851545, 'account_name': 'test1'} 
+2021-01-15 13:59:40,463 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 8084)>, {'action': 'exit', 'time': 1610701180.0851545, 'account_name': 'test1'}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, [], {}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:59:46,221 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50270) 
+2021-01-15 13:59:46,221 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610701186.2212281, 'user': {'account_name': 'test1'}} 
+2021-01-15 13:59:46,307 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 8084)>, {'action': 'presence', 'time': 1610701186.2212281, 'user': {'account_name': 'test1'}}, [], <socket.socket fd=1232, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50270)>, [<socket.socket fd=1232, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50270)>], {'test1': <socket.socket fd=1232, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50270)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:59:46,821 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610701186.306277, 'account_name': 'test1'} 
+2021-01-15 13:59:46,829 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 8084)>, {'action': 'get_users', 'time': 1610701186.306277, 'account_name': 'test1'}, [], <socket.socket fd=1232, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50270)>, [<socket.socket fd=1232, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50270)>], {'test1': <socket.socket fd=1232, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50270)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:59:47,341 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610701186.9004576, 'user': 'test1'} 
+2021-01-15 13:59:47,343 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 8084)>, {'action': 'get_contacts', 'time': 1610701186.9004576, 'user': 'test1'}, [], <socket.socket fd=1232, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50270)>, [<socket.socket fd=1232, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50270)>], {'test1': <socket.socket fd=1232, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50270)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 13:59:56,944 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701196.5172389, 'message_text': 'da'} 
+2021-01-15 14:00:07,422 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 14:00:07,524 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 14:00:14,424 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50272) 
+2021-01-15 14:00:14,424 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610701214.4242735, 'user': {'account_name': 'test1'}} 
+2021-01-15 14:00:14,520 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 12840)>, {'action': 'presence', 'time': 1610701214.4242735, 'user': {'account_name': 'test1'}}, [], <socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50272)>, [<socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50272)>], {'test1': <socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50272)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:00:15,020 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610701214.5182388, 'account_name': 'test1'} 
+2021-01-15 14:00:15,024 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 12840)>, {'action': 'get_users', 'time': 1610701214.5182388, 'account_name': 'test1'}, [], <socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50272)>, [<socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50272)>], {'test1': <socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50272)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:00:15,527 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610701215.1501653, 'user': 'test1'} 
+2021-01-15 14:00:15,530 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 12840)>, {'action': 'get_contacts', 'time': 1610701215.1501653, 'user': 'test1'}, [], <socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50272)>, [<socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50272)>], {'test1': <socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50272)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:00:19,064 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701218.4480875, 'message_text': 'da'} 
+2021-01-15 14:00:19,138 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 12840)>, {'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701218.4480875, 'message_text': 'da'}, [{'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701218.4480875, 'message_text': 'da'}], <socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50272)>, [<socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50272)>], {'test1': <socket.socket fd=1204, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50272)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:00:19,139 - ERROR - server.py - Пользователь test31 не зарегистрирован на сервере, отправка сообщения невозможна. 
+2021-01-15 14:00:26,221 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610701225.9780624, 'account_name': 'test1'} 
+2021-01-15 14:00:26,315 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 12840)>, {'action': 'exit', 'time': 1610701225.9780624, 'account_name': 'test1'}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, [], {}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:00:52,312 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 14:00:52,392 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 14:00:55,346 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50274) 
+2021-01-15 14:00:55,347 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610701255.3462102, 'user': {'account_name': 'test1'}} 
+2021-01-15 14:00:55,471 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10132)>, {'action': 'presence', 'time': 1610701255.3462102, 'user': {'account_name': 'test1'}}, [], <socket.socket fd=1184, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50274)>, [<socket.socket fd=1184, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50274)>], {'test1': <socket.socket fd=1184, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50274)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:00:55,980 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610701255.4683154, 'account_name': 'test1'} 
+2021-01-15 14:00:55,982 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10132)>, {'action': 'get_users', 'time': 1610701255.4683154, 'account_name': 'test1'}, [], <socket.socket fd=1184, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50274)>, [<socket.socket fd=1184, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50274)>], {'test1': <socket.socket fd=1184, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50274)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:00:56,486 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610701256.0343714, 'user': 'test1'} 
+2021-01-15 14:00:56,489 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10132)>, {'action': 'get_contacts', 'time': 1610701256.0343714, 'user': 'test1'}, [], <socket.socket fd=1184, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50274)>, [<socket.socket fd=1184, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50274)>], {'test1': <socket.socket fd=1184, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50274)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:01:00,541 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610701260.1155615, 'account_name': 'test1'} 
+2021-01-15 14:01:00,613 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 10132)>, {'action': 'exit', 'time': 1610701260.1155615, 'account_name': 'test1'}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, [], {}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:03:04,437 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 14:03:04,521 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 14:03:07,811 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50277) 
+2021-01-15 14:03:07,812 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610701387.8112864, 'user': {'account_name': 'test1'}} 
+2021-01-15 14:03:07,899 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 3744)>, {'action': 'presence', 'time': 1610701387.8112864, 'user': {'account_name': 'test1'}}, [], <socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50277)>, [<socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50277)>], {'test1': <socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50277)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:03:08,432 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610701387.8971121, 'account_name': 'test1'} 
+2021-01-15 14:03:08,441 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 3744)>, {'action': 'get_users', 'time': 1610701387.8971121, 'account_name': 'test1'}, [], <socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50277)>, [<socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50277)>], {'test1': <socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50277)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:03:08,955 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610701388.541696, 'user': 'test1'} 
+2021-01-15 14:03:08,958 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 3744)>, {'action': 'get_contacts', 'time': 1610701388.541696, 'user': 'test1'}, [], <socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50277)>, [<socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50277)>], {'test1': <socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50277)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:03:13,006 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701392.8712358, 'message_text': 'da'} 
+2021-01-15 14:03:13,124 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 3744)>, {'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701392.8712358, 'message_text': 'da'}, [{'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701392.8712358, 'message_text': 'da'}], <socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50277)>, [<socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50277)>], {'test1': <socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50277)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:03:13,125 - ERROR - server.py - Пользователь test31 не зарегистрирован на сервере, отправка сообщения невозможна. 
+2021-01-15 14:03:20,210 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610701399.828221, 'account_name': 'test1'} 
+2021-01-15 14:03:20,278 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 3744)>, {'action': 'exit', 'time': 1610701399.828221, 'account_name': 'test1'}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, [], {}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:03:52,305 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 14:03:52,399 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 14:03:58,391 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50280) 
+2021-01-15 14:03:58,391 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610701438.3911638, 'user': {'account_name': 'test1'}} 
+2021-01-15 14:03:58,469 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 11812)>, {'action': 'presence', 'time': 1610701438.3911638, 'user': {'account_name': 'test1'}}, [], <socket.socket fd=1084, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50280)>, [<socket.socket fd=1084, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50280)>], {'test1': <socket.socket fd=1084, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50280)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:03:58,971 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610701438.4682105, 'account_name': 'test1'} 
+2021-01-15 14:03:58,973 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 11812)>, {'action': 'get_users', 'time': 1610701438.4682105, 'account_name': 'test1'}, [], <socket.socket fd=1084, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50280)>, [<socket.socket fd=1084, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50280)>], {'test1': <socket.socket fd=1084, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50280)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:03:59,487 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610701439.0689757, 'user': 'test1'} 
+2021-01-15 14:03:59,490 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 11812)>, {'action': 'get_contacts', 'time': 1610701439.0689757, 'user': 'test1'}, [], <socket.socket fd=1084, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50280)>, [<socket.socket fd=1084, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50280)>], {'test1': <socket.socket fd=1084, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50280)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:04:03,028 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701442.5962207, 'message_text': 'da'} 
+2021-01-15 14:04:03,110 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 11812)>, {'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701442.5962207, 'message_text': 'da'}, [{'action': 'message', 'from': 'test1', 'to': 'test31', 'time': 1610701442.5962207, 'message_text': 'da'}], <socket.socket fd=1084, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50280)>, [<socket.socket fd=1084, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50280)>], {'test1': <socket.socket fd=1084, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50280)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:04:03,111 - ERROR - server.py - Пользователь test31 не зарегистрирован на сервере, отправка сообщения невозможна. 
+2021-01-15 14:04:13,214 - INFO - server.py - Клиент ('127.0.0.1', 50280) отключился от сервера. 
+2021-01-15 14:08:53,022 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 14:08:53,122 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 14:09:09,843 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 50290) 
+2021-01-15 14:09:09,843 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610701749.843258, 'user': {'account_name': 'test1'}} 
+2021-01-15 14:09:09,929 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 1532)>, {'action': 'presence', 'time': 1610701749.843258, 'user': {'account_name': 'test1'}}, [], <socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50290)>, [<socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50290)>], {'test1': <socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50290)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:09:10,513 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610701749.9283257, 'account_name': 'test1'} 
+2021-01-15 14:09:10,515 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 1532)>, {'action': 'get_users', 'time': 1610701749.9283257, 'account_name': 'test1'}, [], <socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50290)>, [<socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50290)>], {'test1': <socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50290)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:09:11,021 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610701750.5962338, 'user': 'test1'} 
+2021-01-15 14:09:11,024 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 1532)>, {'action': 'get_contacts', 'time': 1610701750.5962338, 'user': 'test1'}, [], <socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50290)>, [<socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50290)>], {'test1': <socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50290)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:09:15,050 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1610701754.6592793, 'message_text': 'q'} 
+2021-01-15 14:09:15,149 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 1532)>, {'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1610701754.6592793, 'message_text': 'q'}, [{'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1610701754.6592793, 'message_text': 'q'}], <socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50290)>, [<socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50290)>], {'test1': <socket.socket fd=1128, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50290)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:09:15,149 - ERROR - server.py - Пользователь test3 не зарегистрирован на сервере, отправка сообщения невозможна. 
+2021-01-15 14:09:21,733 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610701761.6161706, 'account_name': 'test1'} 
+2021-01-15 14:09:21,791 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 1532)>, {'action': 'exit', 'time': 1610701761.6161706, 'account_name': 'test1'}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, [], {}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 14:12:01,396 - INFO - server1.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 14:13:04,968 - INFO - server1.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 14:13:15,413 - INFO - server1.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 14:14:39,592 - INFO - server1.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 14:17:35,978 - INFO - server1.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 14:18:53,611 - INFO - server1.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 14:22:26,177 - INFO - server1.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 14:25:23,043 - INFO - server1.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 14:25:31,294 - INFO - server1.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 14:26:34,525 - INFO - server1.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 14:27:55,154 - INFO - server1.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 17:09:05,670 - INFO - server1.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 17:15:55,938 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 17:15:56,042 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 17:16:03,677 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 61604) 
+2021-01-15 17:16:03,677 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610712963.6779053, 'user': {'account_name': 'test1'}} 
+2021-01-15 17:16:03,800 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 6464)>, {'action': 'presence', 'time': 1610712963.6779053, 'user': {'account_name': 'test1'}}, [], <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61604)>, [<socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61604)>], {'test1': <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61604)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 17:16:04,321 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610712963.7952526, 'account_name': 'test1'} 
+2021-01-15 17:16:04,340 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 6464)>, {'action': 'get_users', 'time': 1610712963.7952526, 'account_name': 'test1'}, [], <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61604)>, [<socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61604)>], {'test1': <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61604)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 17:16:04,845 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610712964.5380125, 'user': 'test1'} 
+2021-01-15 17:16:04,849 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 6464)>, {'action': 'get_contacts', 'time': 1610712964.5380125, 'user': 'test1'}, [], <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61604)>, [<socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61604)>], {'test1': <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61604)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 17:16:15,248 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 61605) 
+2021-01-15 17:16:15,248 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610712975.248676, 'user': {'account_name': 'test2'}} 
+2021-01-15 17:16:15,349 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 6464)>, {'action': 'presence', 'time': 1610712975.248676, 'user': {'account_name': 'test2'}}, [], <socket.socket fd=1300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61605)>, [<socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61604)>, <socket.socket fd=1300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61605)>], {'test1': <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61604)>, 'test2': <socket.socket fd=1300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61605)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 17:16:15,861 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610712975.348194, 'account_name': 'test2'} 
+2021-01-15 17:16:15,873 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 6464)>, {'action': 'get_users', 'time': 1610712975.348194, 'account_name': 'test2'}, [], <socket.socket fd=1300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61605)>, [<socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61604)>, <socket.socket fd=1300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61605)>], {'test1': <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61604)>, 'test2': <socket.socket fd=1300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61605)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 17:16:16,386 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610712975.9641364, 'user': 'test2'} 
+2021-01-15 17:16:16,389 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 6464)>, {'action': 'get_contacts', 'time': 1610712975.9641364, 'user': 'test2'}, [], <socket.socket fd=1300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61605)>, [<socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61604)>, <socket.socket fd=1300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61605)>], {'test1': <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61604)>, 'test2': <socket.socket fd=1300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61605)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 17:16:31,049 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test2', 'to': 'test1', 'time': 1610712990.763053, 'message_text': 'Хорошо'} 
+2021-01-15 17:16:31,140 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 6464)>, {'action': 'message', 'from': 'test2', 'to': 'test1', 'time': 1610712990.763053, 'message_text': 'Хорошо'}, [{'action': 'message', 'from': 'test2', 'to': 'test1', 'time': 1610712990.763053, 'message_text': 'Хорошо'}], <socket.socket fd=1300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61605)>, [<socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61604)>, <socket.socket fd=1300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61605)>], {'test1': <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61604)>, 'test2': <socket.socket fd=1300, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61605)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 17:16:31,141 - INFO - server.py - Отправлено сообщение пользователю test1 от пользователя test2. 
+2021-01-15 17:16:47,313 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610713006.7515073, 'account_name': 'test2'} 
+2021-01-15 17:16:47,418 - INFO - server.py - Была вызвана функция process_client_message, с параметрами:
+(<Server(Thread-1, started daemon 6464)>, {'action': 'exit', 'time': 1610713006.7515073, 'account_name': 'test2'}, [], <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>, [<socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61604)>], {'test1': <socket.socket fd=1284, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 61604)>}) {}.
+Вызов из модуля __main__. Вызов из функции self._bootstrap_inner(). Вызов из функции run 
+2021-01-15 17:17:08,767 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 17:17:57,598 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 17:27:08,460 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 17:27:08,549 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 17:27:17,555 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 61699) 
+2021-01-15 17:27:17,555 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610713637.5542564, 'user': {'account_name': 'test1'}} 
+2021-01-15 17:27:18,193 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610713637.64528, 'account_name': 'test1'} 
+2021-01-15 17:27:18,704 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610713638.4530933, 'user': 'test1'} 
+2021-01-15 17:27:26,900 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 61700) 
+2021-01-15 17:27:26,900 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610713646.9007988, 'user': {'account_name': 'test2'}} 
+2021-01-15 17:27:27,505 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610713646.9972084, 'account_name': 'test2'} 
+2021-01-15 17:27:28,031 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610713647.6212974, 'user': 'test2'} 
+2021-01-15 17:27:36,653 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test2', 'to': 'test1', 'time': 1610713656.3495631, 'message_text': 'Как дела?'} 
+2021-01-15 17:27:36,735 - INFO - server.py - Отправлено сообщение пользователю test1 от пользователя test2. 
+2021-01-15 17:27:39,278 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610713658.826978, 'account_name': 'test2'} 
+2021-01-15 17:27:39,370 - INFO - server.py - Клиент test2 корректно отключился от сервера. 
+2021-01-15 17:27:40,891 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610713660.4424212, 'account_name': 'test1'} 
+2021-01-15 17:27:40,977 - INFO - server.py - Клиент test1 корректно отключился от сервера. 
+2021-01-15 17:32:25,222 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 17:32:25,312 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 17:32:33,792 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 61715) 
+2021-01-15 17:32:33,792 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610713953.792613, 'user': {'account_name': 'test2'}} 
+2021-01-15 17:32:34,451 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610713953.9161227, 'account_name': 'test2'} 
+2021-01-15 17:32:34,970 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610713954.6410916, 'user': 'test2'} 
+2021-01-15 17:32:40,236 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 61716) 
+2021-01-15 17:32:40,236 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610713960.2361517, 'user': {'account_name': 'test1'}} 
+2021-01-15 17:32:40,846 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610713960.3436878, 'account_name': 'test1'} 
+2021-01-15 17:32:41,350 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610713960.9338796, 'user': 'test1'} 
+2021-01-15 17:33:01,537 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test2', 'time': 1610713980.753589, 'message_text': 'Отлично'} 
+2021-01-15 17:33:01,609 - INFO - server.py - Отправлено сообщение пользователю test2 от пользователя test1. 
+2021-01-15 17:33:06,162 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610713986.1170692, 'account_name': 'test1'} 
+2021-01-15 17:33:06,251 - INFO - server.py - Клиент test1 корректно отключился от сервера. 
+2021-01-15 17:33:07,266 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610713986.9482138, 'account_name': 'test2'} 
+2021-01-15 17:33:07,376 - INFO - server.py - Клиент test2 корректно отключился от сервера. 
+2021-01-15 17:51:35,798 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-15 17:51:35,915 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-15 17:51:45,071 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 61844) 
+2021-01-15 17:51:45,071 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610715105.0702226, 'user': {'account_name': 'test3'}} 
+2021-01-15 17:51:45,758 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610715105.2523165, 'account_name': 'test3'} 
+2021-01-15 17:51:46,262 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610715105.9847777, 'user': 'test3'} 
+2021-01-15 17:51:53,288 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 61845) 
+2021-01-15 17:51:53,288 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1610715113.2883143, 'user': {'account_name': 'test4'}} 
+2021-01-15 17:51:53,982 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610715113.465271, 'account_name': 'test4'} 
+2021-01-15 17:51:54,499 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1610715114.2188396, 'user': 'test4'} 
+2021-01-15 17:51:59,051 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'add', 'time': 1610715118.9841397, 'user': 'test4', 'account_name': 'test3'} 
+2021-01-15 17:52:05,204 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610715125.1023285, 'account_name': 'test3'} 
+2021-01-15 17:52:06,219 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1610715125.4642916, 'account_name': 'test3'} 
+2021-01-15 17:52:08,749 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'add', 'time': 1610715128.304255, 'user': 'test3', 'account_name': 'test4'} 
+2021-01-15 17:52:18,451 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test3', 'to': 'test4', 'time': 1610715138.410488, 'message_text': 'Привет'} 
+2021-01-15 17:52:18,530 - INFO - server.py - Отправлено сообщение пользователю test4 от пользователя test3. 
+2021-01-15 17:52:23,070 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test4', 'to': 'test3', 'time': 1610715142.6362863, 'message_text': 'Привет'} 
+2021-01-15 17:52:23,182 - INFO - server.py - Отправлено сообщение пользователю test3 от пользователя test4. 
+2021-01-15 17:52:27,750 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610715147.4315002, 'account_name': 'test3'} 
+2021-01-15 17:52:27,827 - INFO - server.py - Клиент test3 корректно отключился от сервера. 
+2021-01-15 17:52:28,333 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1610715148.1449916, 'account_name': 'test4'} 
+2021-01-15 17:52:28,412 - INFO - server.py - Клиент test4 корректно отключился от сервера. 

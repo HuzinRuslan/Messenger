@@ -1,0 +1,748 @@
+2021-01-19 13:12:04,822 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:12:05,144 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:23:23,246 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:23:23,337 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:23:38,575 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:23:38,660 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:24:41,239 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:24:41,327 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:25:03,658 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:25:03,745 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:26:30,268 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:26:30,357 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:26:40,401 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:26:40,486 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:26:48,809 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:26:48,923 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:27:04,225 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:27:04,329 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:29:48,722 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:29:48,837 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:37:26,953 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:37:27,064 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:37:42,925 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:37:43,020 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:38:23,327 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:38:23,437 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:38:33,306 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:38:33,391 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:38:47,911 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:38:48,012 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:38:58,184 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:38:58,275 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:41:58,002 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:41:58,111 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:42:42,724 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:42:42,913 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:43:10,576 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:43:10,666 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:46:34,743 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:46:34,825 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:46:46,620 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7778', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:46:46,704 - INFO - server.py - Запущен сервер, порт для подключений: 7778, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:47:18,970 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:47:19,076 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:47:28,575 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7778', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:47:28,672 - INFO - server.py - Запущен сервер, порт для подключений: 7778, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:47:37,950 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:47:38,051 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:48:25,270 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:48:25,440 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:48:36,213 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7778', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:48:36,300 - INFO - server.py - Запущен сервер, порт для подключений: 7778, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:48:49,612 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:48:49,719 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:49:02,110 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:49:02,219 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:49:42,942 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:49:43,028 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:51:24,988 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:51:25,079 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:51:41,107 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:51:41,210 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:51:59,710 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:51:59,818 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:52:43,860 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:52:43,935 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:53:07,445 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:53:07,537 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:53:18,080 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7778', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:53:18,167 - INFO - server.py - Запущен сервер, порт для подключений: 7778, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 13:53:25,116 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 13:53:25,204 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:11:33,688 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:11:33,789 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:11:52,618 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:11:52,722 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:40:01,379 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:40:01,639 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:40:13,856 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:40:13,956 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:42:33,501 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:42:33,577 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:42:46,711 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:42:46,790 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:43:00,810 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:43:00,887 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:43:14,922 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:43:15,003 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:44:11,021 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:44:11,101 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:44:23,911 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:44:24,022 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:45:26,831 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:45:27,400 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:45:47,359 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:45:47,499 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:46:03,441 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:46:03,564 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:47:26,083 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:47:26,200 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:51:19,481 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:51:19,621 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:52:30,566 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:52:30,943 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:53:04,993 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:53:05,331 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:53:19,403 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:53:19,562 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:53:29,936 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:53:30,107 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:54:28,731 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:54:28,840 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:54:49,028 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:54:49,137 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:55:10,443 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:55:10,599 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:58:01,786 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 14:58:01,958 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 14:58:10,147 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 63921) 
+2021-01-19 14:58:10,148 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611050290.1476173, 'user': {'account_name': 'test1'}} 
+2021-01-19 15:16:50,639 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 15:16:50,809 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 15:17:05,828 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64052) 
+2021-01-19 15:17:05,828 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611051425.8286023, 'user': {'account_name': 'test1'}} 
+2021-01-19 15:17:44,636 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 15:17:44,764 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 15:18:03,942 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64053) 
+2021-01-19 15:18:03,942 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611051483.9410973, 'user': {'account_name': 'test1'}} 
+2021-01-19 15:33:48,651 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 15:33:48,774 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 15:33:56,550 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64100) 
+2021-01-19 15:33:57,056 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611052436.5594082, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 15:33:57,056 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 15:33:57,058 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 15:33:57,059 - DEBUG - server.py - Auth message = {'response': 511, 'bin': 'da7e4aec2fcc2d42d4ff03ca67042ecfe9526f778d13f6dd1aee6f7b7dc683b885462c1cad69d38eef1674621e6c929772dc8ac7df65eaf3ffd1c83bfa170355'} 
+2021-01-19 15:33:57,693 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611052437.066085, 'account_name': 'test1'} 
+2021-01-19 15:33:58,196 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611052437.7921154, 'user': 'test1'} 
+2021-01-19 15:34:04,824 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611052444.4251995, 'account_name': 'test1'} 
+2021-01-19 15:34:04,953 - INFO - server.py - Клиент test1 корректно отключился от сервера. 
+2021-01-19 15:34:38,790 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 15:34:39,145 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 15:34:59,345 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64102) 
+2021-01-19 15:34:59,845 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611052499.3535879, 'user': {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 15:34:59,845 - DEBUG - server.py - Start auth process for {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 15:34:59,847 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 15:34:59,848 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '46d0a7d2ca5d56bfafce9a98a46e3aadd0d0bcf1fae947bdd85ae72f9d3cfede08fcb2e35c4bcd2eb0e7dbb61351ff42c69cc888837040246beb42d604dd5f5d'} 
+2021-01-19 15:35:00,457 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611052499.849817, 'account_name': 'test3'} 
+2021-01-19 15:35:00,963 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611052500.576548, 'user': 'test3'} 
+2021-01-19 15:35:17,758 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611052517.6401613, 'account_name': 'test3'} 
+2021-01-19 15:35:17,860 - INFO - server.py - Клиент test3 корректно отключился от сервера. 
+2021-01-19 15:35:21,080 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 15:35:21,204 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 15:35:28,389 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64103) 
+2021-01-19 15:35:28,900 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611052528.3988113, 'user': {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 15:35:28,900 - DEBUG - server.py - Start auth process for {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 15:35:28,902 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 15:35:28,903 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '5a37716505e7552135eaeb2d2db15cb618158958c145f5b3adb245dbe4e4fe76952be25063619d368511719a99525f86526cc63853228bd0ad139ba74521f04a'} 
+2021-01-19 15:35:29,554 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611052528.9031343, 'account_name': 'test3'} 
+2021-01-19 15:35:30,068 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611052529.6477308, 'user': 'test3'} 
+2021-01-19 15:35:34,655 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611052534.2321045, 'account_name': 'test3'} 
+2021-01-19 15:35:34,808 - INFO - server.py - Клиент test3 корректно отключился от сервера. 
+2021-01-19 15:35:42,470 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64104) 
+2021-01-19 15:35:42,985 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611052542.4797983, 'user': {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 15:35:42,985 - DEBUG - server.py - Start auth process for {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 15:35:42,987 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 15:35:42,988 - DEBUG - server.py - Auth message = {'response': 511, 'bin': 'f6efe7622d445e07b46aef8e3a419f2f6ebf793e8df43ed76261a18f227ed59a06a1a44da7e71066441081eeda477c8d4b8fde5a03f2dd06254ad2688c5589b0'} 
+2021-01-19 15:35:43,621 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611052542.9882016, 'account_name': 'test3'} 
+2021-01-19 15:35:44,136 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611052543.7188733, 'user': 'test3'} 
+2021-01-19 15:36:59,774 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64106) 
+2021-01-19 15:37:00,283 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611052619.7837057, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 15:37:00,283 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 15:37:00,285 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 15:37:00,286 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '2f8709bfbaf0dcda2e92855ea39991528d2cb10c5fadfe8a07b3f56507edc8b03c4f9d9be6f174ba41816a6387f3b90c445108904b1be8f43bbdc1473070efd1'} 
+2021-01-19 15:37:00,908 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611052620.2876327, 'account_name': 'test1'} 
+2021-01-19 15:37:01,409 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611052621.0161765, 'user': 'test1'} 
+2021-01-19 15:37:07,531 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'add', 'time': 1611052627.316692, 'user': 'test1', 'account_name': 'test3'} 
+2021-01-19 15:37:13,757 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1611052633.4303901, 'message_text': 'Привет'} 
+2021-01-19 15:37:13,832 - INFO - server.py - Отправлено сообщение пользователю test3 от пользователя test1. 
+2021-01-19 15:37:16,896 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'add', 'time': 1611052636.423955, 'user': 'test3', 'account_name': 'test1'} 
+2021-01-19 15:37:24,121 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test3', 'to': 'test1', 'time': 1611052643.5780053, 'message_text': 'Привет'} 
+2021-01-19 15:37:24,211 - INFO - server.py - Отправлено сообщение пользователю test1 от пользователя test3. 
+2021-01-19 15:37:29,797 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611052649.396367, 'account_name': 'test3'} 
+2021-01-19 15:37:29,916 - INFO - server.py - Клиент test3 корректно отключился от сервера. 
+2021-01-19 15:41:15,688 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 15:41:15,824 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 15:41:22,682 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64116) 
+2021-01-19 15:41:23,198 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611052882.691926, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 15:41:23,198 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 15:41:23,200 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 15:41:23,201 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '42fc7c2af3303785b7cdc91de8d8161f63801acad600d62455dbfbd6733d2e646701688de1205c9a04a36e055d4ff33d2a51aa3660dc13aa1b804e3c1655a6c9'} 
+2021-01-19 15:41:23,846 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611052883.2024252, 'account_name': 'test1'} 
+2021-01-19 15:41:24,348 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611052883.941924, 'user': 'test1'} 
+2021-01-19 15:41:34,223 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64117) 
+2021-01-19 15:41:34,730 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611052894.2318995, 'user': {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 15:41:34,730 - DEBUG - server.py - Start auth process for {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 15:41:34,732 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 15:41:34,732 - DEBUG - server.py - Auth message = {'response': 511, 'bin': 'fefb3c3c30a162d2e30a0014b258da8220e02dee44ecc8e5711117fd93a0ee00c7bb1aa1569601598c1e21521800951856b19f3eedaa2f6228530ed46654bc31'} 
+2021-01-19 15:41:35,356 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611052894.7336586, 'account_name': 'test3'} 
+2021-01-19 15:41:35,871 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611052895.4529016, 'user': 'test3'} 
+2021-01-19 15:41:46,034 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test3', 'to': 'test1', 'time': 1611052906.0089917, 'message_text': 'Еще раз привет\n'} 
+2021-01-19 15:41:46,133 - INFO - server.py - Отправлено сообщение пользователю test1 от пользователя test3. 
+2021-01-19 15:41:56,326 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1611052915.8976097, 'message_text': 'И тебе\n'} 
+2021-01-19 15:41:56,437 - INFO - server.py - Отправлено сообщение пользователю test3 от пользователя test1. 
+2021-01-19 15:43:01,007 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 15:43:01,141 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 15:43:32,112 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 15:43:32,224 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 15:45:35,742 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 15:45:35,852 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 15:47:33,557 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64123) 
+2021-01-19 15:47:34,072 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611053253.566704, 'user': {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 15:47:34,072 - DEBUG - server.py - Start auth process for {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 15:47:34,074 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 15:47:34,076 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '70c610741478d45e531a2d3d06d701093f5c74bef5da9c5a7e8bf54ac51c91b93733e4ded535d38c05a2e8d137dc2cfb04b0a7efb82f28882a2c28ac2d27cdaa'} 
+2021-01-19 15:47:34,754 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611053254.0764465, 'account_name': 'test3'} 
+2021-01-19 15:47:35,264 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611053254.8428717, 'user': 'test3'} 
+2021-01-19 15:47:43,879 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64124) 
+2021-01-19 15:47:44,385 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611053263.8889592, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 15:47:44,385 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 15:47:44,387 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 15:47:44,388 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '345c942791ef10fdf64011f6b4c8eb6aafde6f6adf5c51dfd42b01d90895db53abc6ecdf8eb22910612e004c9d27af91b2104e665edfe9bd28edebb60b2214c0'} 
+2021-01-19 15:47:54,845 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 15:47:55,011 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 15:48:12,666 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64130) 
+2021-01-19 15:48:13,174 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611053292.6749196, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 15:48:13,174 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 15:48:13,176 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 15:48:13,177 - DEBUG - server.py - Auth message = {'response': 511, 'bin': 'ff58890e24067e12d4ca01060d2f79ff385e4cda28f8ff5792ae2dda6a36471319b40720cbdbacb718b7c86867959e8e8771687b28242d49cf27ff01663267af'} 
+2021-01-19 15:48:13,811 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611053293.1788564, 'account_name': 'test1'} 
+2021-01-19 15:48:14,327 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611053293.9045086, 'user': 'test1'} 
+2021-01-19 15:48:21,705 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64131) 
+2021-01-19 15:48:22,211 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611053301.7137914, 'user': {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 15:48:22,211 - DEBUG - server.py - Start auth process for {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 15:48:22,212 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 15:48:22,213 - DEBUG - server.py - Auth message = {'response': 511, 'bin': 'a997a71b446842113b4b1751b7ca2deb4694c0d0a55ab12b3e99849cd34252004bb50dd96aa1bdabeeda7be9d3180963291dedb2a3f0532fadf2496698eedf52'} 
+2021-01-19 15:48:22,850 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611053302.2145839, 'account_name': 'test3'} 
+2021-01-19 15:48:23,352 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611053302.9462135, 'user': 'test3'} 
+2021-01-19 15:48:31,495 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test3', 'to': 'test1', 'time': 1611053310.8942208, 'mess_text': 'Как дела\n'} 
+2021-01-19 15:48:31,565 - INFO - server.py - Отправлено сообщение пользователю test1 от пользователя test3. 
+2021-01-19 15:55:06,855 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 15:55:06,969 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 15:55:17,208 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64221) 
+2021-01-19 15:55:17,716 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611053717.2171028, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 15:55:17,716 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 15:55:17,718 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 15:55:17,720 - DEBUG - server.py - Auth message = {'response': 511, 'bin': 'fcee558c9942bb6ba4a838c8f481219204cc65a0c556864110ef97be10a229e72989199fa2c87246ceb49238493dff387870fd04bffb738880a6a75a196514dc'} 
+2021-01-19 15:55:18,367 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611053717.7207236, 'account_name': 'test1'} 
+2021-01-19 15:55:18,879 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611053718.4796207, 'user': 'test1'} 
+2021-01-19 15:57:26,852 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64223) 
+2021-01-19 15:57:27,354 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611053846.8616326, 'user': {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 15:57:27,354 - DEBUG - server.py - Start auth process for {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 15:57:27,356 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 15:57:27,357 - DEBUG - server.py - Auth message = {'response': 511, 'bin': 'c356556eaa04dbaa25a1b03263c4a3195f32561d34574feb8120394f178ce655242f48a865fcabf5d3f91d5a0ee8cec1617d91a0819a616ece4968475b5bee92'} 
+2021-01-19 15:57:27,990 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611053847.3582952, 'account_name': 'test3'} 
+2021-01-19 15:57:28,503 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611053848.0767808, 'user': 'test3'} 
+2021-01-19 15:57:44,792 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1611053864.5862803, 'mess_text': 'Привет'} 
+2021-01-19 15:57:44,883 - INFO - server.py - Отправлено сообщение пользователю test3 от пользователя test1. 
+2021-01-19 15:57:49,420 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test3', 'to': 'test1', 'time': 1611053869.1223164, 'mess_text': 'И тебе'} 
+2021-01-19 15:57:49,527 - INFO - server.py - Отправлено сообщение пользователю test1 от пользователя test3. 
+2021-01-19 15:57:53,592 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611053873.2536302, 'account_name': 'test3'} 
+2021-01-19 15:57:53,689 - INFO - server.py - Клиент test3 корректно отключился от сервера. 
+2021-01-19 15:57:54,694 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611053874.2253294, 'account_name': 'test1'} 
+2021-01-19 15:57:54,781 - INFO - server.py - Клиент test1 корректно отключился от сервера. 
+2021-01-19 15:58:20,126 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 15:58:20,243 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 15:58:30,461 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64228) 
+2021-01-19 15:58:30,965 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611053910.4719014, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 15:58:30,965 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 15:58:30,967 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 15:58:30,969 - DEBUG - server.py - Auth message = {'response': 511, 'bin': 'cc3a92e70adbf761184cf5125fab7d3f2d4699b40255e8793e492facf79d1ace4a4fd74b417f70421821156773444752128388c277fbe4e48a83f122fda659a6'} 
+2021-01-19 15:59:53,370 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64234) 
+2021-01-19 15:59:53,876 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611053993.3799162, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 15:59:53,876 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 15:59:53,878 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 15:59:53,878 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '63b73685b6a0f06b2880bd6ca619af3891f521b142dd5048a0b96060a2fe8e21f143647832a555513502ccc4d82d2550647db8881853aab00d5cb7013b6b217a'} 
+2021-01-19 15:59:54,516 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611053993.879202, 'account_name': 'test1'} 
+2021-01-19 15:59:55,031 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611053994.6204267, 'user': 'test1'} 
+2021-01-19 16:00:05,250 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64235) 
+2021-01-19 16:00:05,758 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611054005.2596183, 'user': {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:00:05,758 - DEBUG - server.py - Start auth process for {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:00:05,760 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:00:05,761 - DEBUG - server.py - Auth message = {'response': 511, 'bin': 'fea193da1f0986f286f13fb746764333957106ea86b14a057e0550764bd93c64c426b8f1dc165f864a81d63d8fc5dda9f6dcfa5192fdd390a1bfd9ad797c561c'} 
+2021-01-19 16:00:06,397 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611054005.7610302, 'account_name': 'test3'} 
+2021-01-19 16:00:06,904 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611054006.5277226, 'user': 'test3'} 
+2021-01-19 16:00:13,530 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test3', 'to': 'test1', 'time': 1611054012.671698, 'mess_text': 'Привет\n'} 
+2021-01-19 16:00:13,628 - INFO - server.py - Отправлено сообщение пользователю test1 от пользователя test3. 
+2021-01-19 16:00:19,744 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1611054019.7162223, 'mess_text': 'пРВИЕТ'} 
+2021-01-19 16:00:19,846 - INFO - server.py - Отправлено сообщение пользователю test3 от пользователя test1. 
+2021-01-19 16:00:26,438 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611054025.972512, 'account_name': 'test3'} 
+2021-01-19 16:00:26,544 - INFO - server.py - Клиент test3 корректно отключился от сервера. 
+2021-01-19 16:00:27,554 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611054027.0827038, 'account_name': 'test1'} 
+2021-01-19 16:00:27,652 - INFO - server.py - Клиент test1 корректно отключился от сервера. 
+2021-01-19 16:01:36,577 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 16:01:36,699 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 16:01:44,083 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64239) 
+2021-01-19 16:01:44,594 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611054104.092842, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:01:44,594 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:01:44,596 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:01:44,597 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '16f245163204e53e463c5369cca7290cefde321a2115d8b01061161c6bfd9807d0e44127d1c9c4ac87deb48af934180ff4c5e7184704032371800dbe8477f643'} 
+2021-01-19 16:01:45,220 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611054104.5988863, 'account_name': 'test1'} 
+2021-01-19 16:01:45,735 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611054105.3085253, 'user': 'test1'} 
+2021-01-19 16:01:53,865 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611054113.7366917, 'account_name': 'test1'} 
+2021-01-19 16:01:53,947 - INFO - server.py - Клиент test1 корректно отключился от сервера. 
+2021-01-19 16:06:51,931 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 16:06:52,067 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 16:06:58,237 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64245) 
+2021-01-19 16:06:58,752 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611054418.2465956, 'user': {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:06:58,752 - DEBUG - server.py - Start auth process for {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:06:58,754 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:06:58,755 - DEBUG - server.py - Auth message = {'response': 511, 'bin': 'aaa8465a87389cb23f8745af4fad99ff2c5f3f4e3d5d6bd7d7df99ba946d5301edfd7c597f940bd304b30687e52fd61a33a4dc029385fe376b37e8b3800333b3'} 
+2021-01-19 16:06:59,370 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611054418.7554152, 'account_name': 'test3'} 
+2021-01-19 16:06:59,882 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611054419.5432773, 'user': 'test3'} 
+2021-01-19 16:08:51,910 - INFO - server.py - Клиент ('127.0.0.1', 64245) отключился от сервера. 
+2021-01-19 16:09:02,468 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 16:09:02,591 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 16:09:10,634 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64256) 
+2021-01-19 16:09:11,136 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611054550.643819, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:09:11,136 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:09:11,138 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:09:11,139 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '7655eea9c5703df9f69c85f515a7a409c84510199ff5aaf44c288a40bb164bc59887fa688674f808f1b4bdbc26c3f4d17ff59294c3d428c79f040d53331000ec'} 
+2021-01-19 16:09:11,780 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611054551.1404629, 'account_name': 'test1'} 
+2021-01-19 16:09:12,281 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611054551.909036, 'user': 'test1'} 
+2021-01-19 16:09:24,703 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64257) 
+2021-01-19 16:09:25,206 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611054564.7127233, 'user': {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:09:25,206 - DEBUG - server.py - Start auth process for {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:09:25,207 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:09:25,208 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '19246a7a42f5519029adb3039440b12d40f7cec7a52d0a40e26f8f3d2e94aad5b073aca725f985df21800f31f68e2d55036ffdb6accdfec2acaa4c204e75dfd6'} 
+2021-01-19 16:09:25,845 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611054565.2094133, 'account_name': 'test3'} 
+2021-01-19 16:09:26,360 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611054565.94067, 'user': 'test3'} 
+2021-01-19 16:09:31,469 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test3', 'to': 'test1', 'time': 1611054571.4671125, 'mess_text': 'Привет'} 
+2021-01-19 16:09:31,567 - INFO - server.py - Отправлено сообщение пользователю test1 от пользователя test3. 
+2021-01-19 16:09:38,716 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1611054578.392718, 'mess_text': 'Привет'} 
+2021-01-19 16:11:36,988 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 16:11:37,574 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 16:14:27,553 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 16:14:27,669 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 16:15:12,458 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64361) 
+2021-01-19 16:15:12,969 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611054912.4669366, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:15:12,969 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:15:12,970 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:15:12,971 - DEBUG - server.py - Auth message = {'response': 511, 'bin': 'fdc4ebb5ab9eae664e48a018cdfa3845fea912ca20fc50c1f93ab80a198f5c5add097a0526ae68438ee9e3c74b6ef4bf64a14f6c29a50d846ce91bf3ebbf49ec'} 
+2021-01-19 16:15:13,622 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611054912.9729316, 'account_name': 'test1'} 
+2021-01-19 16:15:14,134 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611054913.7188108, 'user': 'test1'} 
+2021-01-19 16:15:28,931 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64362) 
+2021-01-19 16:15:29,434 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611054928.9405193, 'user': {'account_name': 'test2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmIPSh3d5wQRwL9zaImPe\nQ22zSEekJ5OnMVlyk7oMXfWysmRQ16Hhjj7qlZaDJWGG4KEjFAM7zsvuuY+kAJAG\n55Qo56GGp+099t/LsXwKnnMqzDEQpnQbHcyXpwip8bZyP3CpQJfK4L2U847Nljnu\nmii6d2zfTFMq0d68Lv27YE4j3nkUy36Xa9cq/JBkJGSyLDpT8qGBwymLO9WFU8Ia\nbMq6aJGGd8ilbsBUZzcbwWyTkBrRFUkYh6fPYZhSPF3AQw0I4kXZkHXIKiaBj8iC\nA9+I69JIL+3Nuzmmt9zmM7uJZRc8PZsF1ZfdK4vSbbFYftS5TrrR4WsKOQ9UNSFW\nNQIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:15:29,434 - DEBUG - server.py - Start auth process for {'account_name': 'test2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmIPSh3d5wQRwL9zaImPe\nQ22zSEekJ5OnMVlyk7oMXfWysmRQ16Hhjj7qlZaDJWGG4KEjFAM7zsvuuY+kAJAG\n55Qo56GGp+099t/LsXwKnnMqzDEQpnQbHcyXpwip8bZyP3CpQJfK4L2U847Nljnu\nmii6d2zfTFMq0d68Lv27YE4j3nkUy36Xa9cq/JBkJGSyLDpT8qGBwymLO9WFU8Ia\nbMq6aJGGd8ilbsBUZzcbwWyTkBrRFUkYh6fPYZhSPF3AQw0I4kXZkHXIKiaBj8iC\nA9+I69JIL+3Nuzmmt9zmM7uJZRc8PZsF1ZfdK4vSbbFYftS5TrrR4WsKOQ9UNSFW\nNQIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:15:29,435 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:15:29,436 - DEBUG - server.py - Auth message = {'response': 511, 'bin': 'ac209e820efa3317d08cb5facbf5082b91edc36199d6984d00182979ec486e1d11df7a3f2b76964c22a7b4a2b4503cb94eacff06adfed7af6cf2a4226e28a6ee'} 
+2021-01-19 16:15:30,083 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611054929.4370782, 'account_name': 'test2'} 
+2021-01-19 16:15:30,585 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611054930.1810305, 'user': 'test2'} 
+2021-01-19 16:15:34,632 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'add', 'time': 1611054934.3942316, 'user': 'test1', 'account_name': 'test2'} 
+2021-01-19 16:15:41,856 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test2', 'time': 1611054941.365185, 'mess_text': 'Привет'} 
+2021-01-19 16:15:41,949 - INFO - server.py - Отправлено сообщение пользователю test2 от пользователя test1. 
+2021-01-19 16:15:44,977 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'add', 'time': 1611054944.7710292, 'user': 'test2', 'account_name': 'test1'} 
+2021-01-19 16:15:50,674 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test2', 'to': 'test1', 'time': 1611054950.2664232, 'mess_text': 'Привет'} 
+2021-01-19 16:15:50,811 - INFO - server.py - Отправлено сообщение пользователю test1 от пользователя test2. 
+2021-01-19 16:15:56,935 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test2', 'time': 1611054956.9216044, 'mess_text': 'Как дела?'} 
+2021-01-19 16:15:57,022 - INFO - server.py - Отправлено сообщение пользователю test2 от пользователя test1. 
+2021-01-19 16:16:05,667 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test2', 'to': 'test1', 'time': 1611054965.1634667, 'mess_text': 'Отлично '} 
+2021-01-19 16:16:05,776 - INFO - server.py - Отправлено сообщение пользователю test1 от пользователя test2. 
+2021-01-19 16:16:11,397 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test2', 'to': 'test1', 'time': 1611054970.518454, 'mess_text': 'У тебя как?'} 
+2021-01-19 16:16:11,494 - INFO - server.py - Отправлено сообщение пользователю test1 от пользователя test2. 
+2021-01-19 16:16:17,119 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611054977.114101, 'account_name': 'test2'} 
+2021-01-19 16:16:17,222 - INFO - server.py - Клиент test2 корректно отключился от сервера. 
+2021-01-19 16:16:18,745 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611054978.3668818, 'account_name': 'test1'} 
+2021-01-19 16:16:18,869 - INFO - server.py - Клиент test1 корректно отключился от сервера. 
+2021-01-19 16:16:29,356 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64365) 
+2021-01-19 16:16:29,867 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611054989.3657494, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:16:29,867 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:16:29,868 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:16:29,869 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '0a1528da87459ea574573170e9c848285ce53fd1d00968267eae85e78784372962d2f8e9166ece989430509b38fcdb659e8153ae55601c817966f0865a9712f0'} 
+2021-01-19 16:16:38,728 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 16:16:38,898 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 16:16:47,113 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64367) 
+2021-01-19 16:16:47,625 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611055007.1224122, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:16:47,625 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:16:47,627 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:16:47,629 - DEBUG - server.py - Auth message = {'response': 511, 'bin': 'f1935da8cdb87e9be9378b6897d29c9c5bf6c98467d101d87df374d666311d2e053ca8c3e36a86115eb0c1a0e3971631764ab867456e24e8be57be41c24e7c10'} 
+2021-01-19 16:16:48,290 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611055007.629462, 'account_name': 'test1'} 
+2021-01-19 16:16:48,799 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611055008.3718405, 'user': 'test1'} 
+2021-01-19 16:16:57,250 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64368) 
+2021-01-19 16:16:57,756 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611055017.2597327, 'user': {'account_name': 'test2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmIPSh3d5wQRwL9zaImPe\nQ22zSEekJ5OnMVlyk7oMXfWysmRQ16Hhjj7qlZaDJWGG4KEjFAM7zsvuuY+kAJAG\n55Qo56GGp+099t/LsXwKnnMqzDEQpnQbHcyXpwip8bZyP3CpQJfK4L2U847Nljnu\nmii6d2zfTFMq0d68Lv27YE4j3nkUy36Xa9cq/JBkJGSyLDpT8qGBwymLO9WFU8Ia\nbMq6aJGGd8ilbsBUZzcbwWyTkBrRFUkYh6fPYZhSPF3AQw0I4kXZkHXIKiaBj8iC\nA9+I69JIL+3Nuzmmt9zmM7uJZRc8PZsF1ZfdK4vSbbFYftS5TrrR4WsKOQ9UNSFW\nNQIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:16:57,756 - DEBUG - server.py - Start auth process for {'account_name': 'test2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmIPSh3d5wQRwL9zaImPe\nQ22zSEekJ5OnMVlyk7oMXfWysmRQ16Hhjj7qlZaDJWGG4KEjFAM7zsvuuY+kAJAG\n55Qo56GGp+099t/LsXwKnnMqzDEQpnQbHcyXpwip8bZyP3CpQJfK4L2U847Nljnu\nmii6d2zfTFMq0d68Lv27YE4j3nkUy36Xa9cq/JBkJGSyLDpT8qGBwymLO9WFU8Ia\nbMq6aJGGd8ilbsBUZzcbwWyTkBrRFUkYh6fPYZhSPF3AQw0I4kXZkHXIKiaBj8iC\nA9+I69JIL+3Nuzmmt9zmM7uJZRc8PZsF1ZfdK4vSbbFYftS5TrrR4WsKOQ9UNSFW\nNQIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:16:57,757 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:16:57,758 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '64f6cb94bd556c923244daf5b4b91ef72154403372e2c5843c6fabfaca7a1f0ed926e1fd25b806044b1db2bd78d98620d08fe38f666ed19269e62004dd69e9fa'} 
+2021-01-19 16:16:58,394 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611055017.7590582, 'account_name': 'test2'} 
+2021-01-19 16:16:58,910 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611055018.5170622, 'user': 'test2'} 
+2021-01-19 16:17:12,694 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test2', 'time': 1611055032.5393531, 'mess_text': 'У меня тоже '} 
+2021-01-19 16:17:12,786 - INFO - server.py - Отправлено сообщение пользователю test2 от пользователя test1. 
+2021-01-19 16:17:19,888 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test2', 'to': 'test1', 'time': 1611055039.3333683, 'mess_text': 'Отлично?'} 
+2021-01-19 16:17:19,997 - INFO - server.py - Отправлено сообщение пользователю test1 от пользователя test2. 
+2021-01-19 16:17:27,062 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611055046.5873275, 'account_name': 'test2'} 
+2021-01-19 16:17:35,942 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 16:17:36,063 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 16:17:46,812 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64371) 
+2021-01-19 16:17:47,316 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611055066.8218436, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:17:47,316 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:17:47,318 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:17:47,319 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '553012cf8a302e0b3265ef0d220b7d131f32208121919fd4c7c0a5ff2bd091e41de002cf64817c8ed82974d1d66326c28ecab37b44bb806c82a77f2234c951dd'} 
+2021-01-19 16:17:47,960 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611055067.3209913, 'account_name': 'test1'} 
+2021-01-19 16:17:48,474 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611055068.046202, 'user': 'test1'} 
+2021-01-19 16:18:05,320 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64372) 
+2021-01-19 16:18:05,830 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611055085.329172, 'user': {'account_name': 'test2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmIPSh3d5wQRwL9zaImPe\nQ22zSEekJ5OnMVlyk7oMXfWysmRQ16Hhjj7qlZaDJWGG4KEjFAM7zsvuuY+kAJAG\n55Qo56GGp+099t/LsXwKnnMqzDEQpnQbHcyXpwip8bZyP3CpQJfK4L2U847Nljnu\nmii6d2zfTFMq0d68Lv27YE4j3nkUy36Xa9cq/JBkJGSyLDpT8qGBwymLO9WFU8Ia\nbMq6aJGGd8ilbsBUZzcbwWyTkBrRFUkYh6fPYZhSPF3AQw0I4kXZkHXIKiaBj8iC\nA9+I69JIL+3Nuzmmt9zmM7uJZRc8PZsF1ZfdK4vSbbFYftS5TrrR4WsKOQ9UNSFW\nNQIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:18:05,830 - DEBUG - server.py - Start auth process for {'account_name': 'test2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmIPSh3d5wQRwL9zaImPe\nQ22zSEekJ5OnMVlyk7oMXfWysmRQ16Hhjj7qlZaDJWGG4KEjFAM7zsvuuY+kAJAG\n55Qo56GGp+099t/LsXwKnnMqzDEQpnQbHcyXpwip8bZyP3CpQJfK4L2U847Nljnu\nmii6d2zfTFMq0d68Lv27YE4j3nkUy36Xa9cq/JBkJGSyLDpT8qGBwymLO9WFU8Ia\nbMq6aJGGd8ilbsBUZzcbwWyTkBrRFUkYh6fPYZhSPF3AQw0I4kXZkHXIKiaBj8iC\nA9+I69JIL+3Nuzmmt9zmM7uJZRc8PZsF1ZfdK4vSbbFYftS5TrrR4WsKOQ9UNSFW\nNQIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:18:05,831 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:18:05,832 - DEBUG - server.py - Auth message = {'response': 511, 'bin': 'd3996f6c93483490f36db7f8b165c088cdebb3ffd4d67fa0a42533bee5d05065ad21b670e39eaa798e0e6c4a3684f715a219a2b30539fc3ece6572682c9d4e09'} 
+2021-01-19 16:18:06,470 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611055085.833931, 'account_name': 'test2'} 
+2021-01-19 16:18:06,981 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611055086.5614195, 'user': 'test2'} 
+2021-01-19 16:18:13,613 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test2', 'to': 'test1', 'time': 1611055092.9872534, 'mess_text': 'Привет'} 
+2021-01-19 16:18:13,719 - INFO - server.py - Отправлено сообщение пользователю test1 от пользователя test2. 
+2021-01-19 16:18:18,821 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test2', 'time': 1611055098.144302, 'mess_text': 'Привет'} 
+2021-01-19 16:18:18,938 - INFO - server.py - Отправлено сообщение пользователю test2 от пользователя test1. 
+2021-01-19 16:18:24,012 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611055103.542449, 'account_name': 'test2'} 
+2021-01-19 16:18:24,182 - INFO - server.py - Клиент test2 корректно отключился от сервера. 
+2021-01-19 16:18:26,218 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611055106.0162573, 'account_name': 'test1'} 
+2021-01-19 16:18:39,648 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 16:18:39,823 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 16:18:48,688 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64375) 
+2021-01-19 16:18:49,195 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611055128.697639, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:18:49,195 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:18:49,198 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:18:49,199 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '4e0857b1df60e45f90e137ee732314619df2f2fbc095bc660fe069a9fb445a5bab50e14bd95bfa1514ef088b6c1583ac1002014d81521011cab616d3dee514a7'} 
+2021-01-19 16:18:49,846 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611055129.1999435, 'account_name': 'test1'} 
+2021-01-19 16:18:50,354 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611055129.9380887, 'user': 'test1'} 
+2021-01-19 16:18:53,925 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611055133.0287864, 'account_name': 'test1'} 
+2021-01-19 16:18:54,044 - INFO - server.py - Клиент test1 корректно отключился от сервера. 
+2021-01-19 16:19:02,927 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64376) 
+2021-01-19 16:19:03,437 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611055142.9361227, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:19:03,437 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:19:03,439 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:19:03,439 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '3e1198fc1c6f9e7b345a6ff0b8695dc78ed23fafd06514ec71a50493211781e96e218faaf753a0a1bf9ac86aa47354b2f202f5f3baf1656a81eed4b81da42df6'} 
+2021-01-19 16:19:04,104 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611055143.4401596, 'account_name': 'test1'} 
+2021-01-19 16:19:04,620 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611055144.1939135, 'user': 'test1'} 
+2021-01-19 16:19:09,787 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64377) 
+2021-01-19 16:19:10,288 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611055149.7965639, 'user': {'account_name': 'test2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmIPSh3d5wQRwL9zaImPe\nQ22zSEekJ5OnMVlyk7oMXfWysmRQ16Hhjj7qlZaDJWGG4KEjFAM7zsvuuY+kAJAG\n55Qo56GGp+099t/LsXwKnnMqzDEQpnQbHcyXpwip8bZyP3CpQJfK4L2U847Nljnu\nmii6d2zfTFMq0d68Lv27YE4j3nkUy36Xa9cq/JBkJGSyLDpT8qGBwymLO9WFU8Ia\nbMq6aJGGd8ilbsBUZzcbwWyTkBrRFUkYh6fPYZhSPF3AQw0I4kXZkHXIKiaBj8iC\nA9+I69JIL+3Nuzmmt9zmM7uJZRc8PZsF1ZfdK4vSbbFYftS5TrrR4WsKOQ9UNSFW\nNQIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:19:10,288 - DEBUG - server.py - Start auth process for {'account_name': 'test2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmIPSh3d5wQRwL9zaImPe\nQ22zSEekJ5OnMVlyk7oMXfWysmRQ16Hhjj7qlZaDJWGG4KEjFAM7zsvuuY+kAJAG\n55Qo56GGp+099t/LsXwKnnMqzDEQpnQbHcyXpwip8bZyP3CpQJfK4L2U847Nljnu\nmii6d2zfTFMq0d68Lv27YE4j3nkUy36Xa9cq/JBkJGSyLDpT8qGBwymLO9WFU8Ia\nbMq6aJGGd8ilbsBUZzcbwWyTkBrRFUkYh6fPYZhSPF3AQw0I4kXZkHXIKiaBj8iC\nA9+I69JIL+3Nuzmmt9zmM7uJZRc8PZsF1ZfdK4vSbbFYftS5TrrR4WsKOQ9UNSFW\nNQIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:19:10,289 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:19:10,290 - DEBUG - server.py - Auth message = {'response': 511, 'bin': 'ba7ea47a27b4ca3e655dca40232ff70343e75f00975d2ea715a2af4c0b403e0194b0826f5c2a86b4f28fa9a2b3e52f4359aa315ac8c14d18268758437a73cfd8'} 
+2021-01-19 16:19:10,933 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611055150.2915318, 'account_name': 'test2'} 
+2021-01-19 16:19:11,443 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611055151.02106, 'user': 'test2'} 
+2021-01-19 16:19:21,605 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611055161.259322, 'account_name': 'test1'} 
+2021-01-19 16:19:21,705 - INFO - server.py - Клиент test1 корректно отключился от сервера. 
+2021-01-19 16:19:26,250 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611055165.9472725, 'account_name': 'test2'} 
+2021-01-19 16:19:26,365 - INFO - server.py - Клиент test2 корректно отключился от сервера. 
+2021-01-19 16:19:44,143 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64379) 
+2021-01-19 16:19:44,653 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611055184.1529582, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:19:44,653 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:19:44,655 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:19:44,657 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '62ff450330f5417f722ccd220ea4df3e5847d8c1c6a114a650a8d9ef77229e2c2ed4c63f69838a469fc2493bc9f5b2942e5a93b5bf3103bbdb1d40bee2895220'} 
+2021-01-19 16:19:45,304 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611055184.6585307, 'account_name': 'test1'} 
+2021-01-19 16:19:45,819 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611055185.3940532, 'user': 'test1'} 
+2021-01-19 16:19:50,196 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64380) 
+2021-01-19 16:19:50,710 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611055190.2052314, 'user': {'account_name': 'test2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmIPSh3d5wQRwL9zaImPe\nQ22zSEekJ5OnMVlyk7oMXfWysmRQ16Hhjj7qlZaDJWGG4KEjFAM7zsvuuY+kAJAG\n55Qo56GGp+099t/LsXwKnnMqzDEQpnQbHcyXpwip8bZyP3CpQJfK4L2U847Nljnu\nmii6d2zfTFMq0d68Lv27YE4j3nkUy36Xa9cq/JBkJGSyLDpT8qGBwymLO9WFU8Ia\nbMq6aJGGd8ilbsBUZzcbwWyTkBrRFUkYh6fPYZhSPF3AQw0I4kXZkHXIKiaBj8iC\nA9+I69JIL+3Nuzmmt9zmM7uJZRc8PZsF1ZfdK4vSbbFYftS5TrrR4WsKOQ9UNSFW\nNQIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:19:50,710 - DEBUG - server.py - Start auth process for {'account_name': 'test2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmIPSh3d5wQRwL9zaImPe\nQ22zSEekJ5OnMVlyk7oMXfWysmRQ16Hhjj7qlZaDJWGG4KEjFAM7zsvuuY+kAJAG\n55Qo56GGp+099t/LsXwKnnMqzDEQpnQbHcyXpwip8bZyP3CpQJfK4L2U847Nljnu\nmii6d2zfTFMq0d68Lv27YE4j3nkUy36Xa9cq/JBkJGSyLDpT8qGBwymLO9WFU8Ia\nbMq6aJGGd8ilbsBUZzcbwWyTkBrRFUkYh6fPYZhSPF3AQw0I4kXZkHXIKiaBj8iC\nA9+I69JIL+3Nuzmmt9zmM7uJZRc8PZsF1ZfdK4vSbbFYftS5TrrR4WsKOQ9UNSFW\nNQIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:19:50,712 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:19:50,713 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '1f3eef53d9ae18bed932782b56aede6faef531fd3498c283e82057b4feb7c31945bbf29d3b4a8b15a26d15661f7b0057554203fc1c297062efc3cbf611b71f91'} 
+2021-01-19 16:19:57,707 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64381) 
+2021-01-19 16:19:58,208 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611055197.716117, 'user': {'account_name': 'test2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmIPSh3d5wQRwL9zaImPe\nQ22zSEekJ5OnMVlyk7oMXfWysmRQ16Hhjj7qlZaDJWGG4KEjFAM7zsvuuY+kAJAG\n55Qo56GGp+099t/LsXwKnnMqzDEQpnQbHcyXpwip8bZyP3CpQJfK4L2U847Nljnu\nmii6d2zfTFMq0d68Lv27YE4j3nkUy36Xa9cq/JBkJGSyLDpT8qGBwymLO9WFU8Ia\nbMq6aJGGd8ilbsBUZzcbwWyTkBrRFUkYh6fPYZhSPF3AQw0I4kXZkHXIKiaBj8iC\nA9+I69JIL+3Nuzmmt9zmM7uJZRc8PZsF1ZfdK4vSbbFYftS5TrrR4WsKOQ9UNSFW\nNQIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:19:58,208 - DEBUG - server.py - Start auth process for {'account_name': 'test2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmIPSh3d5wQRwL9zaImPe\nQ22zSEekJ5OnMVlyk7oMXfWysmRQ16Hhjj7qlZaDJWGG4KEjFAM7zsvuuY+kAJAG\n55Qo56GGp+099t/LsXwKnnMqzDEQpnQbHcyXpwip8bZyP3CpQJfK4L2U847Nljnu\nmii6d2zfTFMq0d68Lv27YE4j3nkUy36Xa9cq/JBkJGSyLDpT8qGBwymLO9WFU8Ia\nbMq6aJGGd8ilbsBUZzcbwWyTkBrRFUkYh6fPYZhSPF3AQw0I4kXZkHXIKiaBj8iC\nA9+I69JIL+3Nuzmmt9zmM7uJZRc8PZsF1ZfdK4vSbbFYftS5TrrR4WsKOQ9UNSFW\nNQIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:19:58,210 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:19:58,211 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '0b887d83d5223f271092e0b8729e0f29aa2533d8828f40503a104d1e97ce45ddb30d1ef730a7ae3f7fdf45e249df798bce695e1aaa6c6e370d3164fd60b1985f'} 
+2021-01-19 16:19:58,864 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611055198.2118895, 'account_name': 'test2'} 
+2021-01-19 16:19:59,379 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611055198.957303, 'user': 'test2'} 
+2021-01-19 16:20:06,508 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test2', 'to': 'test1', 'time': 1611055206.416675, 'mess_text': 'Привет'} 
+2021-01-19 16:20:06,616 - INFO - server.py - Отправлено сообщение пользователю test1 от пользователя test2. 
+2021-01-19 16:20:14,760 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test2', 'time': 1611055214.6320508, 'mess_text': 'Привет'} 
+2021-01-19 16:20:14,852 - INFO - server.py - Отправлено сообщение пользователю test2 от пользователя test1. 
+2021-01-19 16:20:19,421 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611055219.3241901, 'account_name': 'test2'} 
+2021-01-19 16:20:19,529 - INFO - server.py - Клиент test2 корректно отключился от сервера. 
+2021-01-19 16:20:22,557 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611055222.184324, 'account_name': 'test1'} 
+2021-01-19 16:20:22,671 - INFO - server.py - Клиент test1 корректно отключился от сервера. 
+2021-01-19 16:20:52,205 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64383) 
+2021-01-19 16:20:52,718 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611055252.2130587, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:20:52,718 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:20:52,720 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:20:52,721 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '436227b749af913fd8914042ee6750ac1ee99bddea4507cfbe3091e59b1c7c73434134a5b46631ff3177c1b0408c2bea00e6422682cd8f601c29abe4803644a2'} 
+2021-01-19 16:20:53,372 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611055252.7229764, 'account_name': 'test1'} 
+2021-01-19 16:20:53,874 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611055253.4633286, 'user': 'test1'} 
+2021-01-19 16:21:25,810 - INFO - server.py - Клиент ('127.0.0.1', 64383) отключился от сервера. 
+2021-01-19 16:21:33,424 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64384) 
+2021-01-19 16:21:33,934 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611055293.43388, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:21:33,934 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:21:33,935 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:21:33,936 - DEBUG - server.py - Auth message = {'response': 511, 'bin': 'd1f7133c3e02266812c9563e9eebf8135ca862e94ad4481a9eb0057feac9a85303a073bbddbd46d2a33c35e94b932f880de95cf2e2cc9af7416c71a18281d83b'} 
+2021-01-19 16:21:34,569 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611055293.9374533, 'account_name': 'test1'} 
+2021-01-19 16:21:35,082 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611055294.6636555, 'user': 'test1'} 
+2021-01-19 16:21:39,146 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'add', 'time': 1611055298.7591217, 'user': 'test1', 'account_name': 'test3'} 
+2021-01-19 16:21:45,854 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1611055305.4484522, 'mess_text': 'q'} 
+2021-01-19 16:21:51,422 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611055311.2714882, 'account_name': 'test1'} 
+2021-01-19 16:22:12,061 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 16:22:12,234 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 16:22:18,323 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64386) 
+2021-01-19 16:22:18,827 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611055338.3325293, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:22:18,827 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:22:18,829 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:22:18,830 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '9fca3962b32f2733af44e0a679017e22d8cd8c7952d11b0a01f40b02fe0282c958201ceaa3f9fea4676665ba3755bad3ac60a03badd13202161c79f1cbd1ce92'} 
+2021-01-19 16:22:19,476 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611055338.8303328, 'account_name': 'test1'} 
+2021-01-19 16:22:19,978 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611055339.581944, 'user': 'test1'} 
+2021-01-19 16:22:24,050 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611055343.5723495, 'account_name': 'test1'} 
+2021-01-19 16:22:24,138 - INFO - server.py - Клиент test1 корректно отключился от сервера. 
+2021-01-19 16:22:31,146 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64387) 
+2021-01-19 16:22:31,656 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611055351.154105, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:22:31,656 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:22:31,657 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:22:31,658 - DEBUG - server.py - Auth message = {'response': 511, 'bin': 'f953d906cfa479ea6f56dbb97fe663d50461505ee3a63e3e43a2d49dd3beabb178af46d2efdc9f7b24e566d528748132bd1a957f510b8d34be70f8742b70fa81'} 
+2021-01-19 16:22:32,294 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611055351.658285, 'account_name': 'test1'} 
+2021-01-19 16:22:32,796 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611055352.3955183, 'user': 'test1'} 
+2021-01-19 16:22:37,354 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611055356.8794293, 'account_name': 'test1'} 
+2021-01-19 16:22:37,443 - INFO - server.py - Клиент test1 корректно отключился от сервера. 
+2021-01-19 16:22:45,467 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64388) 
+2021-01-19 16:22:45,967 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611055365.4767933, 'user': {'account_name': 'test2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmIPSh3d5wQRwL9zaImPe\nQ22zSEekJ5OnMVlyk7oMXfWysmRQ16Hhjj7qlZaDJWGG4KEjFAM7zsvuuY+kAJAG\n55Qo56GGp+099t/LsXwKnnMqzDEQpnQbHcyXpwip8bZyP3CpQJfK4L2U847Nljnu\nmii6d2zfTFMq0d68Lv27YE4j3nkUy36Xa9cq/JBkJGSyLDpT8qGBwymLO9WFU8Ia\nbMq6aJGGd8ilbsBUZzcbwWyTkBrRFUkYh6fPYZhSPF3AQw0I4kXZkHXIKiaBj8iC\nA9+I69JIL+3Nuzmmt9zmM7uJZRc8PZsF1ZfdK4vSbbFYftS5TrrR4WsKOQ9UNSFW\nNQIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:22:45,967 - DEBUG - server.py - Start auth process for {'account_name': 'test2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmIPSh3d5wQRwL9zaImPe\nQ22zSEekJ5OnMVlyk7oMXfWysmRQ16Hhjj7qlZaDJWGG4KEjFAM7zsvuuY+kAJAG\n55Qo56GGp+099t/LsXwKnnMqzDEQpnQbHcyXpwip8bZyP3CpQJfK4L2U847Nljnu\nmii6d2zfTFMq0d68Lv27YE4j3nkUy36Xa9cq/JBkJGSyLDpT8qGBwymLO9WFU8Ia\nbMq6aJGGd8ilbsBUZzcbwWyTkBrRFUkYh6fPYZhSPF3AQw0I4kXZkHXIKiaBj8iC\nA9+I69JIL+3Nuzmmt9zmM7uJZRc8PZsF1ZfdK4vSbbFYftS5TrrR4WsKOQ9UNSFW\nNQIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:22:45,969 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:22:45,970 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '4c0dfaa2180b2d489e79729341c7e1bdb6bf56ced0bcab2b500317eee7190a6e481eb466164b56b7d257d1dae254532ae978c655b5be1a0c5fdf069b63df181f'} 
+2021-01-19 16:22:46,606 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611055365.9713886, 'account_name': 'test2'} 
+2021-01-19 16:22:47,123 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611055366.7174654, 'user': 'test2'} 
+2021-01-19 16:22:49,138 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611055368.6937647, 'account_name': 'test2'} 
+2021-01-19 16:22:49,248 - INFO - server.py - Клиент test2 корректно отключился от сервера. 
+2021-01-19 16:22:55,013 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64389) 
+2021-01-19 16:22:55,520 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611055375.0213637, 'user': {'account_name': 'test2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmIPSh3d5wQRwL9zaImPe\nQ22zSEekJ5OnMVlyk7oMXfWysmRQ16Hhjj7qlZaDJWGG4KEjFAM7zsvuuY+kAJAG\n55Qo56GGp+099t/LsXwKnnMqzDEQpnQbHcyXpwip8bZyP3CpQJfK4L2U847Nljnu\nmii6d2zfTFMq0d68Lv27YE4j3nkUy36Xa9cq/JBkJGSyLDpT8qGBwymLO9WFU8Ia\nbMq6aJGGd8ilbsBUZzcbwWyTkBrRFUkYh6fPYZhSPF3AQw0I4kXZkHXIKiaBj8iC\nA9+I69JIL+3Nuzmmt9zmM7uJZRc8PZsF1ZfdK4vSbbFYftS5TrrR4WsKOQ9UNSFW\nNQIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:22:55,520 - DEBUG - server.py - Start auth process for {'account_name': 'test2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmIPSh3d5wQRwL9zaImPe\nQ22zSEekJ5OnMVlyk7oMXfWysmRQ16Hhjj7qlZaDJWGG4KEjFAM7zsvuuY+kAJAG\n55Qo56GGp+099t/LsXwKnnMqzDEQpnQbHcyXpwip8bZyP3CpQJfK4L2U847Nljnu\nmii6d2zfTFMq0d68Lv27YE4j3nkUy36Xa9cq/JBkJGSyLDpT8qGBwymLO9WFU8Ia\nbMq6aJGGd8ilbsBUZzcbwWyTkBrRFUkYh6fPYZhSPF3AQw0I4kXZkHXIKiaBj8iC\nA9+I69JIL+3Nuzmmt9zmM7uJZRc8PZsF1ZfdK4vSbbFYftS5TrrR4WsKOQ9UNSFW\nNQIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:22:55,521 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:22:55,522 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '62b2c6e7f19b5f6a99254747c5bd5a01ac0a4306cdbfdce35eb6012893951a49248131fdb80085a2425499264807e9fe23676caeb61fad6f6cdb6867bc9eb14d'} 
+2021-01-19 16:23:03,108 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64390) 
+2021-01-19 16:23:03,615 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611055383.1164718, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:23:03,615 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:23:03,616 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:23:03,617 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '55a805e59b725579aab557062e950416e4e25d2a35426418f3a08df9c213bae165a84942661ff72c559ad70f6b49905c0cd26a69f5da0b6664afa70b783c8d77'} 
+2021-01-19 16:23:04,266 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611055383.6186001, 'account_name': 'test1'} 
+2021-01-19 16:23:04,775 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611055384.3835626, 'user': 'test1'} 
+2021-01-19 16:23:09,861 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611055389.352539, 'account_name': 'test1'} 
+2021-01-19 16:23:09,957 - INFO - server.py - Клиент test1 корректно отключился от сервера. 
+2021-01-19 16:26:42,121 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 16:26:42,249 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 16:27:05,662 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64399) 
+2021-01-19 16:27:06,177 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611055625.6714072, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:27:06,177 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:27:06,179 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:27:06,180 - DEBUG - server.py - Auth message = {'response': 511, 'bin': 'edec4894d82bf247e410cc02af87363c86484759883d8a7fba962127eb117fee1f017703019b2b923fdf32cb55a9e69e12a22b84a6ab5592815e69c1b19374f3'} 
+2021-01-19 16:27:06,802 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611055626.1804821, 'account_name': 'test1'} 
+2021-01-19 16:27:07,304 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611055626.8954077, 'user': 'test1'} 
+2021-01-19 16:27:42,423 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64400) 
+2021-01-19 16:27:42,927 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611055662.4328904, 'user': {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:27:42,927 - DEBUG - server.py - Start auth process for {'account_name': 'test3', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNGiONM/vStGQMuMDSpm\nvOS64TdieZON6G2Y3gkhthQoESJ6/Ns0gWrMsNoVc68skOAexcQnIxdMtF7PZm2k\nD4kTy8bbg4vPWjzuXyJkrRabZqSol1imVseNQMQQwEFgnLOw74FjdueQy9Uv9bE8\nVwslr4CBt7uVppkQ4vRwuWxRNE46AqFuvLLlqclXRmMuPu2QU03RFM70fEz5JUaG\nthWZbbpfNX2+b+YxE+ok2znYsivsgOJ9wC9wIK8yaFEZNImhmbjgbu7RY7B4hxMZ\nJ00ULrjxi/sywVrKPfxbSrRfg+1h1e7NKikPFvOYOkLHDG1y0THiCHAifylL5lOW\n9wIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:27:42,929 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:27:42,930 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '8f8521b6ba5f5838aa27ae28d15429aad9ea0c3da92b01e4bf1104f92d0b38de02928d716071cddc8a529268b970f81627b3eb25615a34270c871f9df83464d2'} 
+2021-01-19 16:27:43,596 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611055662.9303086, 'account_name': 'test3'} 
+2021-01-19 16:27:44,102 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611055663.6893108, 'user': 'test3'} 
+2021-01-19 16:27:48,686 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611055668.5373046, 'account_name': 'test3'} 
+2021-01-19 16:28:08,478 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'add', 'time': 1611055688.067922, 'user': 'test3', 'account_name': 'test1'} 
+2021-01-19 16:28:16,250 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test3', 'to': 'test1', 'time': 1611055696.2302146, 'mess_text': 'Привет'} 
+2021-01-19 16:28:16,358 - INFO - server.py - Отправлено сообщение пользователю test1 от пользователя test3. 
+2021-01-19 16:28:22,978 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'message', 'from': 'test1', 'to': 'test3', 'time': 1611055702.6382897, 'mess_text': 'Привет'} 
+2021-01-19 16:28:23,065 - INFO - server.py - Отправлено сообщение пользователю test3 от пользователя test1. 
+2021-01-19 16:28:28,141 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611055707.4222739, 'account_name': 'test3'} 
+2021-01-19 16:28:28,255 - INFO - server.py - Клиент test3 корректно отключился от сервера. 
+2021-01-19 16:28:30,795 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611055710.378168, 'account_name': 'test1'} 
+2021-01-19 16:28:30,931 - INFO - server.py - Клиент test1 корректно отключился от сервера. 
+2021-01-19 16:30:21,982 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 16:30:22,094 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 16:30:29,800 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 64402) 
+2021-01-19 16:30:30,301 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611055829.8097782, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 16:30:30,301 - DEBUG - server.py - Start auth process for {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 16:30:30,303 - DEBUG - server.py - Correct username, starting passwd check. 
+2021-01-19 16:30:30,304 - DEBUG - server.py - Auth message = {'response': 511, 'bin': '4c276b1e796d2959d581d23f3f38bd98e9f31a3811c4034bdb30b697022fda2a361dc94b852070061beccc77993c5f1ab0e5c7ce4953077ce31d4b630ad96cba'} 
+2021-01-19 16:30:30,920 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611055830.304788, 'account_name': 'test1'} 
+2021-01-19 16:30:31,432 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611055831.0090437, 'user': 'test1'} 
+2021-01-19 16:30:44,683 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'exit', 'time': 1611055844.6448028, 'account_name': 'test1'} 
+2021-01-19 16:30:44,778 - INFO - server.py - Клиент test1 корректно отключился от сервера. 
+2021-01-19 16:33:55,380 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 16:33:55,533 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 20:55:09,242 - INFO - server.py - Была вызвана функция arg_parser, с параметрами:
+('7777', '') {}.
+Вызов из модуля __main__. Вызов из функции main(). Вызов из функции main 
+2021-01-19 20:55:09,573 - INFO - server.py - Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2021-01-19 20:55:22,069 - INFO - server.py - Установлено соедение с ПК ('127.0.0.1', 49203) 
+2021-01-19 20:55:22,574 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'presence', 'time': 1611071722.0813212, 'user': {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'}} 
+2021-01-19 20:55:22,574 - DEBUG - server.py - Авторизация пользователя {'account_name': 'test1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn2l0EGlP+K16AY0ZAy3M\nfOWAEGkiaeJYL5wNbHFy3yukXvGHZBi6qlR0yeeNs54p9xPR6+gO0vCWfNIbT33P\n6fvyWGRjEW37EoaPTrRAf2BktKfIABK7uJWJOrUAuw9cuED3PAFHZviQLwnyBCBG\n2wpsiejE7A5hWht4tTyLfJb/SK2pPpsKdO4AtA+ICkN0sYeIroioN/kUjLQEJx5s\ndsFtxilZ0CxTkZ6WL1ZTbjR7GhnAgbtUnMNZP83BTWrircbn/0inoYPOwH/L1bS8\nF/W698hFXM7+8XOVQ4TCMTfdWw+uFPCNIQt+6oojAt3p5Po7OrI3IH8RXOEYjAKm\newIDAQAB\n-----END PUBLIC KEY-----'} 
+2021-01-19 20:55:22,577 - DEBUG - server.py - Правильное имя пользователя, проверка пароля. 
+2021-01-19 20:55:22,578 - DEBUG - server.py - Auth message = {'response': 511, 'bin': 'eef3bb37c6f2c8ce0c8b48d52792d7c265947c161048f12e56539aefa83d9b49889eadef820599fc44969a4ea4b31f40b44bc8d0d1a0415ab27ffb519deff612'} 
+2021-01-19 20:55:23,198 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_users', 'time': 1611071722.579546, 'account_name': 'test1'} 
+2021-01-19 20:55:23,711 - DEBUG - server.py - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1611071723.299182, 'user': 'test1'} 
